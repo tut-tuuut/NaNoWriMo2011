@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Version="1.0" Creator="SCRMAC-2.0.5-9496">
+<ScrivenerProject Version="1.0" Creator="SCRMAC-2.1-14118">
     <Binder>
         <BinderItem ID="0" Type="DraftFolder" Created="2011-05-27 20:21:43 +0200" Modified="2011-10-09 12:00:23 +0200">
             <Title>NaNoWriMo</Title>
@@ -139,14 +139,14 @@
                                 <Reference BinderID="44" Destination="[Internal Link]">Vieille Terre</Reference>
                             </References>
                         </BinderItem>
-                        <BinderItem ID="22" Type="Text" Created="2011-05-29 00:30:52 +0200" Modified="2011-10-07 18:37:30 +0200">
+                        <BinderItem ID="22" Type="Text" Created="2011-05-29 00:30:52 +0200" Modified="2011-10-13 23:25:56 +0200">
                             <Title>Scénarios</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>2324,0</TextSelection>
+                                <TextSelection>2583,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem ID="38" Type="Folder" Created="2011-06-02 22:49:52 +0200" Modified="2011-06-02 22:50:30 +0200">
@@ -654,12 +654,12 @@
     </StatusSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2011-11-30 20:21:43 +0100" IgnoreDeadline="No">50000</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetDaily="No" DeterminedFromDeadline="No">1667</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2011-10-12 23:54:23 +0200"></PreviousSession>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetDaily="No" DeterminedFromDeadline="No" WritingDays="">1667</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2011-10-13 23:25:59 +0200"></PreviousSession>
     </ProjectTargets>
     <TemplateFolderID>26</TemplateFolderID>
     <Favorites>
         <BinderID>25</BinderID>
     </Favorites>
-    <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
+    <PrintSettings PaperSize="595.200012,841.799988" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
