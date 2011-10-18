@@ -756,6 +756,7 @@ Creative Commons Attribution-Share Alike 3.0 Unported http://creativecommons.org
         <Document ID="50">
             <Title>Clair de lunes</Title>
             <Synopsis>Pendant ce temps, par un splendide clair de luneS (oui parce qu’il y a 2 lunes), un nabot et un costaud tentent un casse dans une zone sécurisée. Il paraît qu’il y a des vieilles ruines mystérieuses par ici, et les deux intrus sont bien décidés à en savoir plus. Cependant, </Synopsis>
+            <Text>Pendant ce temps, par un splendide clair de luneS (oui parce qu’il y a 2 lunes), un nabot et un costaud tentent un casse dans une zone sécurisée. Il paraît qu’il y a des vieilles ruines mystérieuses par ici, et les deux intrus sont bien décidés à en savoir plus. Cependant, </Text>
         </Document>
         <Document ID="16">
             <Title>Ville dans les nuages</Title>
@@ -984,6 +985,7 @@ Creative Commons Attribution-Share Alike 3.0 Unported http://creativecommons.org
         <Document ID="47">
             <Title>Prologue</Title>
             <Synopsis>[A-10 ans] Présentation de l’univers, guerre Imperium / République. Noemi Vilasis pilote le Garibaldi, dixième du nom. Introduction du dark secret galactique.</Synopsis>
+            <Text>[A-10 ans] Présentation de l’univers, guerre Imperium / République. Noemi Vilasis pilote le Garibaldi, dixième du nom. Introduction du dark secret galactique.</Text>
         </Document>
         <Document ID="56">
             <Title>Projet X-men</Title>
@@ -998,6 +1000,7 @@ Les nanites ont été introduits dans la nourriture de la cantine du vaisseau, s
         <Document ID="48">
             <Title>Uranie O-45</Title>
             <Synopsis>Estelle est une jeune pilote de la flotte d’exploration de l’Imperium. Ses parents sont loin, elle cherche son frère. Permission de quelques jours sur une station orbitale. Estelle en profite pour se détendre, sortir avec des garçons… Une sortie en boîte va tourner à l’inattendu.</Synopsis>
+            <Text>Estelle est une jeune pilote de la flotte d’exploration de l’Imperium. Ses parents sont loin, elle cherche son frère. Permission de quelques jours sur une station orbitale. Estelle en profite pour se détendre, sortir avec des garçons… Une sortie en boîte va tourner à l’inattendu.</Text>
         </Document>
         <Document ID="57">
             <Title>La jolie hackeuse</Title>
@@ -1020,6 +1023,24 @@ Bouts de scénario associés : conversations avec le petit malin. Réunion avec 
         <Document ID="49">
             <Title>Rencontre mouvementée</Title>
             <Synopsis>Estelle se réveille dans un vaisseau qui n’est pas le sien… Elle tente de rentrer discrètement à bon port, et par une succession d’événements complètement improbables (attentat ?), Estelle rencontre Bathilda Hammonds puis manque de la faire tuer dans un accident de glisseur antigrav. Bathilda reconnaît un certain air de famille entre cette jolie pilote givrée et un jeune crétin de contrebandier qui disait être totalement sans famille.</Synopsis>
+        </Document>
+        <Document ID="58">
+            <Title>L'universitaire</Title>
+            <Text>Nom du personnage
+ 	
+Âge, lieu de naissance :
+Métier :
+Apparence : …..
+ 	
+Caractère : …………
+Histoire personnelle :
+A demandé à Bathilda de faire le taxi pour explorer des ruines sur des vieilles planètes.
+Objectif(s) dans la vie :
+ 	
+Avantages :
+Handicaps :
+ 	
+Bouts de scénario associés :</Text>
         </Document>
         <Document ID="10">
             <Title>Terraformation de Mars</Title>
