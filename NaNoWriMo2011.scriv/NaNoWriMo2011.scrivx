@@ -6,41 +6,6 @@
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
-            <Children>
-                <BinderItem ID="47" Type="Text" Created="2011-10-07 19:27:31 +0200" Modified="2011-10-17 18:56:43 +0200">
-                    <Title>Prologue</Title>
-                    <MetaData>
-                        <PageBreakBefore>Yes</PageBreakBefore>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <NotesTextSelection>0,0</NotesTextSelection>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>97,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem ID="48" Type="Text" Created="2011-10-07 19:27:46 +0200" Modified="2011-10-17 18:56:43 +0200">
-                    <Title>Uranie O-45</Title>
-                    <MetaData>
-                        <PageBreakBefore>Yes</PageBreakBefore>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <NotesTextSelection>0,0</NotesTextSelection>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>280,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem ID="50" Type="Text" Created="2011-10-07 19:35:14 +0200" Modified="2011-10-17 18:56:49 +0200">
-                    <Title>Clair de lunes</Title>
-                    <MetaData>
-                        <PageBreakBefore>Yes</PageBreakBefore>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <NotesTextSelection>0,0</NotesTextSelection>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>274,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-            </Children>
         </BinderItem>
         <BinderItem ID="1" Type="ResearchFolder" Created="2011-05-27 20:21:43 +0200" Modified="2011-05-27 20:25:45 +0200">
             <Title>Recherches</Title>
@@ -73,6 +38,39 @@
                         </CorkboardSettings>
                     </CorkboardAndOutliner>
                     <Children>
+                        <BinderItem ID="47" Type="Text" Created="2011-10-07 19:27:31 +0200" Modified="2011-10-17 18:56:43 +0200">
+                            <Title>Prologue</Title>
+                            <MetaData>
+                                <PageBreakBefore>Yes</PageBreakBefore>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>97,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="50" Type="Text" Created="2011-10-07 19:35:14 +0200" Modified="2011-10-17 18:56:49 +0200">
+                            <Title>Clair de lunes</Title>
+                            <MetaData>
+                                <PageBreakBefore>Yes</PageBreakBefore>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>274,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="48" Type="Text" Created="2011-10-07 19:27:46 +0200" Modified="2011-10-17 18:56:43 +0200">
+                            <Title>Uranie O-45</Title>
+                            <MetaData>
+                                <PageBreakBefore>Yes</PageBreakBefore>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>280,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
                         <BinderItem ID="49" Type="Text" Created="2011-10-07 19:32:34 +0200" Modified="2011-10-09 13:46:56 +0200">
                             <Title>Rencontre mouvementée</Title>
                             <MetaData>
@@ -144,14 +142,14 @@
                                 <Reference BinderID="44" Destination="[Internal Link]">Vieille Terre</Reference>
                             </References>
                         </BinderItem>
-                        <BinderItem ID="22" Type="Text" Created="2011-05-29 00:30:52 +0200" Modified="2011-10-13 23:25:56 +0200">
+                        <BinderItem ID="22" Type="Text" Created="2011-05-29 00:30:52 +0200" Modified="2011-10-18 22:03:27 +0200">
                             <Title>Scénarios</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>2179,0</TextSelection>
+                                <TextSelection>1022,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem ID="38" Type="Folder" Created="2011-06-02 22:49:52 +0200" Modified="2011-06-02 22:50:30 +0200">
@@ -193,7 +191,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>2958,0</TextSelection>
+                                <TextSelection>1028,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem ID="45" Type="Text" Created="2011-06-10 22:23:47 +0200" Modified="2011-10-09 13:33:16 +0200">
@@ -213,11 +211,41 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>855,0</TextSelection>
+                                <TextSelection>706,0</TextSelection>
                             </TextSettings>
                             <References>
                                 <Reference BinderID="27" Destination="[Internal Link]">Bathilda Hammonds</Reference>
                             </References>
+                        </BinderItem>
+                        <BinderItem ID="59" Type="Text" Created="2011-10-18 21:51:20 +0200" Modified="2011-10-18 22:00:02 +0200">
+                            <Title>Vocabulaire</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>780,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="60" Type="Text" Created="2011-10-18 22:05:37 +0200" Modified="2011-10-18 22:17:53 +0200">
+                            <Title>Noms de vaisseaux</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1002,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="61" Type="Text" Created="2011-10-18 22:06:04 +0200" Modified="2011-10-18 22:22:13 +0200">
+                            <Title>Noms de lieux</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>46,0</TextSelection>
+                            </TextSettings>
                         </BinderItem>
                     </Children>
                 </BinderItem>
@@ -320,7 +348,7 @@
                                 <IconFileName>Characters.tif</IconFileName>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>2202,0</TextSelection>
+                                <TextSelection>2457,0</TextSelection>
                             </TextSettings>
                             <References>
                                 <Reference BinderID="35" Destination="[Internal Link]">Ama Farrés</Reference>
@@ -328,7 +356,7 @@
                                 <Reference BinderID="56" Destination="[Internal Link]">Projet X-men</Reference>
                             </References>
                         </BinderItem>
-                        <BinderItem ID="35" Type="Text" Created="2011-05-29 00:42:05 +0200" Modified="2011-10-09 13:17:21 +0200">
+                        <BinderItem ID="35" Type="Text" Created="2011-05-29 00:42:05 +0200" Modified="2011-10-18 22:05:19 +0200">
                             <Title>Estelle Farrés</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -338,7 +366,7 @@
                                 <IconFileName>Characters.tif</IconFileName>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1920,0</TextSelection>
+                                <TextSelection>2783,0</TextSelection>
                             </TextSettings>
                             <References>
                                 <Reference BinderID="41" Destination="[Internal Link]">Noah Farrés</Reference>
@@ -354,14 +382,14 @@
                                 <IconFileName>Characters (Photo).png</IconFileName>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1808,0</TextSelection>
+                                <TextSelection>2015,0</TextSelection>
                             </TextSettings>
                             <References>
                                 <Reference BinderID="35" Destination="[Internal Link]">Ama Farrés</Reference>
                             </References>
                         </BinderItem>
-                        <BinderItem ID="36" Type="Text" Created="2011-05-29 00:42:05 +0200" Modified="2011-06-10 22:22:24 +0200">
-                            <Title>Le petit malin</Title>
+                        <BinderItem ID="36" Type="Text" Created="2011-05-29 00:42:05 +0200" Modified="2011-10-20 20:34:59 +0200">
+                            <Title>Frédéric Allington</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
@@ -370,13 +398,13 @@
                                 <IconFileName>Characters.tif</IconFileName>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>576,0</TextSelection>
+                                <TextSelection>121,0</TextSelection>
                             </TextSettings>
                             <References>
                                 <Reference BinderID="22" Destination="[Internal Link]">Scénarios</Reference>
                             </References>
                         </BinderItem>
-                        <BinderItem ID="37" Type="Text" Created="2011-05-29 00:42:05 +0200" Modified="2011-06-12 12:20:09 +0200">
+                        <BinderItem ID="37" Type="Text" Created="2011-05-29 00:42:05 +0200" Modified="2011-10-25 22:40:14 +0200">
                             <Title>John Seahorse</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -386,11 +414,11 @@
                                 <IconFileName>Characters (Photo).png</IconFileName>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1006,0</TextSelection>
+                                <TextSelection>55,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="57" Type="Text" Created="2011-05-29 00:42:05 +0200" Modified="2011-10-11 23:06:06 +0200">
-                            <Title>La jolie hackeuse</Title>
+                        <BinderItem ID="57" Type="Text" Created="2011-05-29 00:42:05 +0200" Modified="2011-10-25 20:43:01 +0200">
+                            <Title>Faïza Nassarib</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
@@ -399,11 +427,11 @@
                                 <IconFileName>Character Sheet (Photo).png</IconFileName>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1283,0</TextSelection>
+                                <TextSelection>14,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="58" Type="Text" Created="2011-05-29 00:42:05 +0200" Modified="2011-10-15 23:00:46 +0200">
-                            <Title>L'universitaire</Title>
+                        <BinderItem ID="58" Type="Text" Created="2011-05-29 00:42:05 +0200" Modified="2011-10-18 22:28:54 +0200">
+                            <Title>Jérémie Van Fitzgerald</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
@@ -412,7 +440,7 @@
                                 <IconFileName>Character Sheet (Photo).png</IconFileName>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>244,0</TextSelection>
+                                <TextSelection>387,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -673,11 +701,11 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2011-11-30 20:21:43 +0100" IgnoreDeadline="No">50000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetDaily="No" DeterminedFromDeadline="No" WritingDays="">1667</SessionTarget>
-        <PreviousSession Words="118" Characters="712" Date="2011-10-17 19:12:54 +0200"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2011-10-25 22:40:15 +0200"></PreviousSession>
     </ProjectTargets>
     <TemplateFolderID>26</TemplateFolderID>
     <Favorites>
         <BinderID>25</BinderID>
     </Favorites>
-    <PrintSettings PaperSize="595.200012,841.799988" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
+    <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>

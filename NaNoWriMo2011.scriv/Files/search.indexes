@@ -615,6 +615,9 @@ Creative Commons Attribution-Share Alike 3.0 Unported http://creativecommons.org
 	◦	Épisode du mur intelligent sur une ville possédée par l’armée, un soir de magnifique clair de lune(s). Deux personnages (dont le petit malin, par exemple) ont été envoyés là pour piquer des trucs, mais se font griller par la police et passent à travers un mur bizarre. Cette scène peut servir de présentation des deux personnages et de leurs activités douteuses en lien avec Bathilda. Avec les deux lunes dans le ciel, ça peut servir d’introduction à l’univers aussi. Et ensuite, on peut faire un parallèle avec les uniformes et le capitaine évoqués par les deux fuyards pour embrayer sur Estelle et Bathilda.
 	◦	Une balise de détresse posée au milieu d’un champ de sable dans lequel dort un kraken du désert.
 	◦	Le défi SOLIDITY CHECK du forum SF du NaNo. Un des personnages qui est un peu givré et qui décide aléatoirement de vérifier que tout ce qui l'entoure est solide. Points bonus si un des objets rate le test et que le personnage lui dit "comment oses-tu ????"
+	◦	Le sculpteur qui sculpte en gruyère (du moins avec une race extraterrestre ressemblant beaucoup au gruyère…) et qui agresse Bathilda dans un bar pour obtenir l’autorisation de la sculpter.
+	◦	Un énorme quiproquo téléphonique entre trois vaisseaux séparés d’une distance suffisante pour que les communications subissent un décalage de quelques secondes. (Vaisseau de Bathilda, une navette de reconnaissance qui revient d’une mission donnée sur une planète, et ?)
+	◦	
 </Text>
         </Document>
         <Document ID="6">
@@ -801,6 +804,13 @@ Bouts de scénario associés :</Text>
             <Title>Garibaldi X</Title>
             <Synopsis>Estelle quitte la flotte / est remerciée par la flotte / part en congé maladie, puis rejoint le bâtiment de Bathilda Hammonds pour être copilote / rentrer chez elle. Estelle continue d’être pilote de pinasse, mais apprend le maniement des vaisseaux stellaires en compagnie de Bathilda. Le vaisseau de Bathilda part à la recherche d’un de leurs indics qui a disparu récemment. Ce qu’ils ne savent pas, c’est qu’un groupe d’agents secrets de l’Imperium est sur la piste d’Estelle : lors de son hospitalisation, des nanites ont été retrouvés dans son sang, et reconnus comme appartenant au projet X-men. Une enquête est lancée pour établir pourquoi ces nanites ont contaminé le sang d’Estelle, qui n’a jamais mis les pieds sur le Garibaldi détruit par un missile à tête nucléaire à la fin de la guerre…</Synopsis>
         </Document>
+        <Document ID="60">
+            <Title>Noms de vaisseaux</Title>
+            <Text>Le Garibaldi est un vaisseau de transport de marchandises aussi bien armé et équipé qu’un vaisseau militaire.
+Le Fleur Bleue est le vaisseau de Bathilda. C’est assez rigolo parce que, vu le caractère de chiotte de son capitaine et les activités tout à fait illégales auxquelles il contribue, ce vaisseau porte très mal son nom (si ce n’est qu’il est effectivement peint en bleu ciel avec une fleur bleu foncé sur la coque tribord).
+Les vaisseaux commerciaux ont des noms plutôt poétiques : la firme Vivaldi possède le Quatre saisons accompagné du Feuille d’automne, du Flocon de neige, du Fleur de Cerisier et du Rayon de soleil. Ils sont escortés par le Tempête, un croiseur de combat racheté à la Flotte Impériale après la guerre, assez vieux mais toujours efficace, pour dissuader les pirates.
+Côté militaire, on tape plutôt dans les noms évocateurs comme le Zeus, le Héra, le Courageux, le Wolverine, le Moreau, le Alistair Dupont, et des noms de vents : le Sirocco, le Mistral, le Tramontane, etc.</Text>
+        </Document>
         <Document ID="17">
             <Title>Ville dans les nuages</Title>
         </Document>
@@ -824,9 +834,11 @@ Elle est capable de contrôler des nanites X-men sans en mourir, mais elle n’e
 Objectif(s) dans la vie : retrouver le grand frère qui lui servait de modèle quand elle était petite. Marcher sur les traces de Noemi Vilasis.
  	
 Avantages : Compatible nanites X-men. Jolie. 
-Handicaps :
+Handicaps : La Gatorinette (drogue façon LSD). Jeune et naïve, croit beaucoup de ce qu’on lui raconte sur la guerre Imperium-République.
  	
-Bouts de scénario associés : Le moment où elle explique en présence de Bathilda que Noemi Vilasis est son modèle de réussite, sauf le moment où elle est bêtement décédée dans une embuscade.</Text>
+Bouts de scénario associés : Le moment où elle explique en présence de Bathilda que Noemi Vilasis est son modèle de réussite, sauf le moment où elle est bêtement décédée dans une embuscade.
+
+Psychologie : assez timide, souvent dans la lune et prompte à obéir rapidement aux ordres. Un esprit analytique, elle réfléchit beaucoup en passant par les détails, de façon très méthodique. Personnalité pas très expressive, mais peut être assez têtue quand elle s’y met : c’est ainsi qu’elle s’est retrouvée dans la filière pilotage sans que ses parents ne soient d’accord. Victime d’un trouble de la personnalité qui fait que de temps en temps, comme ça, sans prévenir, elle craque complètement et se met en colère de façon très impressionnante.</Text>
         </Document>
         <Document ID="18">
             <Title>Nouvelle Terre</Title>
@@ -865,12 +877,13 @@ Bouts de scénario associés : Rencontre avec les PJs. Moments de navigation exp
             <Synopsis>Estelle intègre l’équipage du Garibaldi XII, un croiseur de combat successeur de son homonyme de la guerre (suite à la disparition de son vaisseau d’exploration ?). Quelque temps s’écoule, et un jour on capte un étrange signal de détresse, en plein milieu d’une zone désertique sur la planète rocheuse Baggaley (nommée ainsi en hommage au scientifique Hugo Baggaley qui l’a découverte et analysée). Le signal se révèle être un piège. Un ver des sables géant / un kraken du désert attaque la pinasse envoyée en reconnaissance. Estelle, qui pilote la pinasse, sauve son équipage grâce à des réflexes impressionnants, mais elle est blessée dans l’opération.</Synopsis>
         </Document>
         <Document ID="36">
-            <Title>Le petit malin</Title>
-            <Text>Nom du personnage
+            <Title>Frédéric Allington</Title>
+            <Text>Frédéric Allington
+(le petit malin)
  	
 Âge, lieu de naissance :
-Métier :
-Apparence : …..
+Métier : Homme de main de Bathilda
+Apparence : beau gosse
  	
 Caractère : …………
 Histoire personnelle :
@@ -904,6 +917,14 @@ Principalement des ingénieurs qui surveillent et assurent la maintenance des r�
 </Text>
             <Notes>klmlkm</Notes>
         </Document>
+        <Document ID="61">
+            <Title>Noms de lieux</Title>
+            <Text>Noms d’étoiles :
+Cranston
+Patton
+Saggers
+Mahon</Text>
+        </Document>
         <Document ID="54">
             <Title>Stations spatiales</Title>
             <Text>Les noms des spations spatiales portent des noms de personnages célèbres ou de divinités mythologiques (à noter que la notion de mythologie antique a un peu bougé au fur et à mesure que les siècles ont passé, et que certains personnages de fiction sont plus ou moins assimilés à des personnages de mythologie).
@@ -916,6 +937,7 @@ Il existes différents types de stations spatiales :
             <Title>John Seahorse</Title>
             <Text>John Seahorse
 Concept : le gros Barman
++ ancien pasteur
  	
 Âge, lieu de naissance : Quelques dizaines d’années, un vaisseau marchand quelconque.
 Métier : Barman
@@ -1003,12 +1025,12 @@ Les nanites ont été introduits dans la nourriture de la cantine du vaisseau, s
             <Text>Estelle est une jeune pilote de la flotte d’exploration de l’Imperium. Ses parents sont loin, elle cherche son frère. Permission de quelques jours sur une station orbitale. Estelle en profite pour se détendre, sortir avec des garçons… Une sortie en boîte va tourner à l’inattendu.</Text>
         </Document>
         <Document ID="57">
-            <Title>La jolie hackeuse</Title>
-            <Text>La jolie hackeuse
+            <Title>Faïza Nassarib</Title>
+            <Text>Faïza Nassarib
  	
 Âge, lieu de naissance : une vingtaine d’années apparentes (traitement anti-vieillissement), née sur la nouvelle Terre
 Métier : un métier intellectuel, favorisé par le système
-Apparence : Jeune, blonde à forte poitrine, jolie et mince, la femme en plastique parfaite.
+Apparence : Jeune, brune à forte poitrine, jolie et mince, la femme en plastique parfaite.
  	
 Caractère : Force tranquille qui a des convictions, ne dépend pas d’une source d’information unique, vérifie ses sources, réfléchit avant de parler… Tout le contraire du caractère impulsif du petit malin.
 Histoire personnelle :
@@ -1025,20 +1047,20 @@ Bouts de scénario associés : conversations avec le petit malin. Réunion avec 
             <Synopsis>Estelle se réveille dans un vaisseau qui n’est pas le sien… Elle tente de rentrer discrètement à bon port, et par une succession d’événements complètement improbables (attentat ?), Estelle rencontre Bathilda Hammonds puis manque de la faire tuer dans un accident de glisseur antigrav. Bathilda reconnaît un certain air de famille entre cette jolie pilote givrée et un jeune crétin de contrebandier qui disait être totalement sans famille.</Synopsis>
         </Document>
         <Document ID="58">
-            <Title>L'universitaire</Title>
-            <Text>Nom du personnage
+            <Title>Jérémie Van Fitzgerald</Title>
+            <Text>Jérémie Van Fitzgerald
  	
 Âge, lieu de naissance :
-Métier :
+Métier : Historien archéologue en quête initiatique après de brillantes études à l’uiversité de ????
 Apparence : …..
  	
 Caractère : …………
 Histoire personnelle :
-A demandé à Bathilda de faire le taxi pour explorer des ruines sur des vieilles planètes.
+Noble. Jeune et ouvert. A demandé à Bathilda de faire le taxi pour explorer des ruines sur des vieilles planètes.
 Objectif(s) dans la vie :
  	
 Avantages :
-Handicaps :
+Handicaps : Pigeon.
  	
 Bouts de scénario associés :</Text>
         </Document>
@@ -1152,6 +1174,12 @@ Creative Commons Attribution-Share Alike 3.0 Unported http://creativecommons.org
         </Document>
         <Document ID="0">
             <Title>NaNoWriMo</Title>
+        </Document>
+        <Document ID="59">
+            <Title>Vocabulaire</Title>
+            <Text>??? : Chats de l’espace.
+Gatorinette : Drogue hallucinogène à la mode chez les jeunes (très répandue sous la forme de petits bonbons gélifiés verts en forme d’alligator). HA je tiens mon gator.
+??? : forme de vie extraterrestre ressemblant étrangement, de loin, à du gruyère un peu mou (avec des jolis petits trous ronds). Sa structure microscopique est semblable à celle du corail, mais la gangue qui relie les micro-organismes hôtes n’est pas en calcium. Elle est constituée d’une matière gélifiée (un peu comme… euh du fromage) qui diffuse la lumière après filtrage des longueurs d’onde du bord du spectre visible. Les humains adorent utiliser le [nom de cette forme de vie] pour créer de magnifiques sculptures jaunâtres. (Complètement trop cools les artistes de mon univers.)</Text>
         </Document>
         <Document ID="11">
             <Title>Terraformation de Vénus</Title>
