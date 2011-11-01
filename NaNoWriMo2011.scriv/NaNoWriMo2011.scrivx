@@ -7,14 +7,34 @@
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
             <Children>
-                <BinderItem ID="62" Type="Text" Created="2011-11-01 00:00:18 +0100" Modified="2011-11-01 01:00:23 +0100">
+                <BinderItem ID="62" Type="Text" Created="2011-11-01 00:00:18 +0100" Modified="2011-11-01 17:22:30 +0100">
                     <Title>Prologue</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>6211,0</TextSelection>
+                        <TextSelection>2958,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="63" Type="Text" Created="2011-11-01 10:01:58 +0100" Modified="2011-11-01 17:11:16 +0100">
+                    <Title>Clair de lunes</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>537,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="64" Type="Text" Created="2011-11-01 17:11:35 +0100" Modified="2011-11-01 18:41:04 +0100">
+                    <Title>Uranie O-45</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>3229,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>
@@ -712,8 +732,8 @@
     </StatusSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2011-11-30 20:21:43 +0100" IgnoreDeadline="No">50000</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetDaily="No" DeterminedFromDeadline="No" WritingDays="">1667</SessionTarget>
-        <PreviousSession Words="1008" Characters="6274" Date="2011-11-01 01:03:08 +0100"></PreviousSession>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetDaily="No" DeterminedFromDeadline="No" WritingDays="">5500</SessionTarget>
+        <PreviousSession Words="3246" Characters="19972" Date="2011-11-01 18:41:08 +0100"></PreviousSession>
     </ProjectTargets>
     <TemplateFolderID>26</TemplateFolderID>
     <Favorites>
