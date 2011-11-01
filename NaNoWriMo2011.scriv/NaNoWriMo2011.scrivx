@@ -6,6 +6,18 @@
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
+            <Children>
+                <BinderItem ID="62" Type="Text" Created="2011-11-01 00:00:18 +0100" Modified="2011-11-01 01:00:23 +0100">
+                    <Title>Prologue</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>6211,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
         </BinderItem>
         <BinderItem ID="1" Type="ResearchFolder" Created="2011-05-27 20:21:43 +0200" Modified="2011-05-27 20:25:45 +0200">
             <Title>Recherches</Title>
@@ -142,14 +154,14 @@
                                 <Reference BinderID="44" Destination="[Internal Link]">Vieille Terre</Reference>
                             </References>
                         </BinderItem>
-                        <BinderItem ID="22" Type="Text" Created="2011-05-29 00:30:52 +0200" Modified="2011-10-18 22:03:27 +0200">
+                        <BinderItem ID="22" Type="Text" Created="2011-05-29 00:30:52 +0200" Modified="2011-10-31 22:35:16 +0100">
                             <Title>Scénarios</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1022,0</TextSelection>
+                                <TextSelection>3594,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem ID="38" Type="Folder" Created="2011-06-02 22:49:52 +0200" Modified="2011-06-02 22:50:30 +0200">
@@ -191,7 +203,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1028,0</TextSelection>
+                                <TextSelection>1029,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem ID="45" Type="Text" Created="2011-06-10 22:23:47 +0200" Modified="2011-10-09 13:33:16 +0200">
@@ -211,7 +223,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>706,0</TextSelection>
+                                <TextSelection>1249,0</TextSelection>
                             </TextSettings>
                             <References>
                                 <Reference BinderID="27" Destination="[Internal Link]">Bathilda Hammonds</Reference>
@@ -338,7 +350,7 @@
                         </CorkboardSettings>
                     </CorkboardAndOutliner>
                     <Children>
-                        <BinderItem ID="27" Type="Text" Created="2011-05-29 00:42:05 +0200" Modified="2011-10-09 12:13:46 +0200">
+                        <BinderItem ID="27" Type="Text" Created="2011-05-29 00:42:05 +0200" Modified="2011-10-31 22:30:08 +0100">
                             <Title>Bathilda Hammonds</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -348,7 +360,7 @@
                                 <IconFileName>Characters.tif</IconFileName>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>2457,0</TextSelection>
+                                <TextSelection>2510,0</TextSelection>
                             </TextSettings>
                             <References>
                                 <Reference BinderID="35" Destination="[Internal Link]">Ama Farrés</Reference>
@@ -366,7 +378,7 @@
                                 <IconFileName>Characters.tif</IconFileName>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>2783,0</TextSelection>
+                                <TextSelection>2991,0</TextSelection>
                             </TextSettings>
                             <References>
                                 <Reference BinderID="41" Destination="[Internal Link]">Noah Farrés</Reference>
@@ -388,7 +400,7 @@
                                 <Reference BinderID="35" Destination="[Internal Link]">Ama Farrés</Reference>
                             </References>
                         </BinderItem>
-                        <BinderItem ID="36" Type="Text" Created="2011-05-29 00:42:05 +0200" Modified="2011-10-20 20:34:59 +0200">
+                        <BinderItem ID="36" Type="Text" Created="2011-05-29 00:42:05 +0200" Modified="2011-10-31 23:12:41 +0100">
                             <Title>Frédéric Allington</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -398,7 +410,7 @@
                                 <IconFileName>Characters.tif</IconFileName>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>121,0</TextSelection>
+                                <TextSelection>912,0</TextSelection>
                             </TextSettings>
                             <References>
                                 <Reference BinderID="22" Destination="[Internal Link]">Scénarios</Reference>
@@ -701,7 +713,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2011-11-30 20:21:43 +0100" IgnoreDeadline="No">50000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetDaily="No" DeterminedFromDeadline="No" WritingDays="">1667</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2011-10-25 22:40:15 +0200"></PreviousSession>
+        <PreviousSession Words="1008" Characters="6274" Date="2011-11-01 01:03:08 +0100"></PreviousSession>
     </ProjectTargets>
     <TemplateFolderID>26</TemplateFolderID>
     <Favorites>
