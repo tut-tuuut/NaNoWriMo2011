@@ -1,0 +1,35 @@
+@import url(http://fonts.googleapis.com/css?family=Comfortaa);
+
+p {
+     line-height: 130%;
+     margin: 0 auto 10px;
+     text-align: justify;
+     width: 800px;
+}
+
+body {
+     font-family: Georgia,Times New Roman,sans-serif;
+     font-size: 17px;
+     margin: 0;
+     padding: 0;
+}
+
+h2 {
+     background: #eee;
+     font-family: 'Comfortaa',Arial,Helvetica,Sans-serif;
+     padding: 8px;
+     text-align: center;
+     margin: 70px 0 10px;
+     font-weight: normal;
+}
+
+h1 {
+     background: #000;
+     color: #fff;
+     font-family: 'Comfortaa',Arial,Helvetica,sans-serif;
+     font-variant: small-caps;
+     padding: 13px;
+     text-align: center;
+     font-weight: normal;
+}
+h1 b, h2 b {font-weight: normal;}

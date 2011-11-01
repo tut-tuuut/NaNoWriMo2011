@@ -12,29 +12,30 @@
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
+                        <IgnoresTitlePrefixAndSuffix>Yes</IgnoresTitlePrefixAndSuffix>
                     </MetaData>
                     <TextSettings>
                         <TextSelection>2958,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="63" Type="Text" Created="2011-11-01 10:01:58 +0100" Modified="2011-11-01 17:11:16 +0100">
+                <BinderItem ID="63" Type="Text" Created="2011-11-01 10:01:58 +0100" Modified="2011-11-01 21:27:42 +0100">
                     <Title>Clair de lunes</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>537,0</TextSelection>
+                        <TextSelection>10469,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="64" Type="Text" Created="2011-11-01 17:11:35 +0100" Modified="2011-11-01 18:41:04 +0100">
+                <BinderItem ID="64" Type="Text" Created="2011-11-01 17:11:35 +0100" Modified="2011-11-01 21:30:59 +0100">
                     <Title>Uranie O-45</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>3229,0</TextSelection>
+                        <TextSelection>2436,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>
@@ -667,6 +668,17 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
+                <BinderItem ID="65" Type="Text" Created="2011-11-01 21:33:55 +0100" Modified="2011-11-01 21:44:42 +0100">
+                    <Title>Avertissement</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <CompileAsIs>Yes</CompileAsIs>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>703,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
         <BinderItem ID="2" Type="TrashFolder" Created="2011-05-27 20:21:43 +0200" Modified="2011-05-27 20:25:52 +0200">
@@ -733,11 +745,11 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2011-11-30 20:21:43 +0100" IgnoreDeadline="No">50000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetDaily="No" DeterminedFromDeadline="No" WritingDays="">5500</SessionTarget>
-        <PreviousSession Words="3246" Characters="19972" Date="2011-11-01 18:41:08 +0100"></PreviousSession>
+        <PreviousSession Words="3246" Characters="19972" Date="2011-11-01 21:59:23 +0100"></PreviousSession>
     </ProjectTargets>
     <TemplateFolderID>26</TemplateFolderID>
     <Favorites>
         <BinderID>25</BinderID>
     </Favorites>
-    <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
+    <PrintSettings PaperSize="595.200012,841.799988" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>

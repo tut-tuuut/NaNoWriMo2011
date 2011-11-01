@@ -5,20 +5,20 @@
 	<key>SCRSelectedCompileOptionsInfoSaveName</key>
 	<dict>
 		<key>Tag</key>
-		<integer>1</integer>
+		<integer>3</integer>
 		<key>Title</key>
-		<string>Original</string>
+		<string>HTML propre</string>
 	</dict>
 	<key>binderIsCollapsed</key>
 	<false/>
 	<key>binderSelection</key>
 	<array>
-		<integer>3</integer>
+		<integer>36</integer>
 	</array>
 	<key>binderSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {238, 949}}</string>
-		<string>{{239, 0}, {1208, 949}}</string>
+		<string>{{0, 0}, {238, 701}}</string>
+		<string>{{239, 0}, {987, 701}}</string>
 	</array>
 	<key>binderState</key>
 	<array>
@@ -56,6 +56,31 @@
 	</array>
 	<key>editorSplitType</key>
 	<integer>0</integer>
+	<key>fullScreenBackgroundFade</key>
+	<real>0.89999997615814209</real>
+	<key>fullScreenInspectorMode</key>
+	<integer>0</integer>
+	<key>fullScreenInspectorVisible</key>
+	<false/>
+	<key>fullScreenPaperHeight</key>
+	<integer>-1</integer>
+	<key>fullScreenPaperPosition</key>
+	<integer>0</integer>
+	<key>fullScreenPaperWidth</key>
+	<integer>1278</integer>
+	<key>fullScreenTextEditorSettings</key>
+	<dict>
+		<key>lineNumberingInterval</key>
+		<integer>0</integer>
+		<key>showsLineNumbers</key>
+		<false/>
+		<key>textScale</key>
+		<integer>175</integer>
+		<key>usesFacingPages</key>
+		<false/>
+		<key>usesTypewriterScrolling</key>
+		<true/>
+	</dict>
 	<key>indexCardHeightRatio</key>
 	<real>6</real>
 	<key>indexCardsUseSmallFont</key>
@@ -63,7 +88,7 @@
 	<key>inspectorGeneralPaneIsCollapsed</key>
 	<true/>
 	<key>inspectorIsCollapsed</key>
-	<false/>
+	<true/>
 	<key>inspectorReferencesColumns</key>
 	<dict>
 		<key>order</key>
@@ -83,7 +108,7 @@
 		</dict>
 	</dict>
 	<key>inspectorSelectedDataTab</key>
-	<integer>0</integer>
+	<integer>4</integer>
 	<key>inspectorSplitFrames</key>
 	<array>
 		<string>{{0, 0}, {786, 675}}</string>
@@ -139,7 +164,7 @@
 	<key>mainDocumentView</key>
 	<string>supportingDocumentEditor</string>
 	<key>mainWindowFrame</key>
-	<string>54 55 1226 723 0 0 1280 778 </string>
+	<string>497 363 1226 723 0 0 2560 1418 </string>
 	<key>numberOfIndexCardKeywordColors</key>
 	<integer>5</integer>
 	<key>projectStatsSheet</key>
@@ -169,7 +194,7 @@
 	<real>1.6817628145217896</real>
 	<key>supportingDocumentEditor.binderDocuments</key>
 	<array>
-		<integer>64</integer>
+		<integer>65</integer>
 	</array>
 	<key>supportingDocumentEditor.currentEditorViewMode</key>
 	<integer>0</integer>
@@ -180,7 +205,7 @@
 	<key>supportingDocumentEditor.navigationHistory</key>
 	<dict>
 		<key>CurrentIndex</key>
-		<integer>556</integer>
+		<integer>560</integer>
 		<key>NavigationHistoryArray</key>
 		<array>
 			<dict>
@@ -4645,12 +4670,46 @@
 				<key>ViewMode</key>
 				<integer>0</integer>
 			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>63</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>64</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>AggregateSelection</key>
+				<string>{0, 0}</string>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>1</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>65</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
 		</array>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 325.6}, {616.8, 503.2}}</string>
+	<string>{{0, 0}, {777.6, 503.2}}</string>
 	<key>supportingDocumentEditor.selectedRanges</key>
-	<string>{3229, 0}</string>
+	<string>{703, 0}</string>
 	<key>supportingDocumentEditor.textEditorState</key>
 	<dict>
 		<key>hasMultiplePages</key>
