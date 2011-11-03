@@ -38,6 +38,16 @@
                         <TextSelection>9884,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem ID="66" Type="Text" Created="2011-11-03 20:20:27 +0100" Modified="2011-11-03 23:39:02 +0100">
+                    <Title>Crocodiles et chutes d'objets</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>10937,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
         <BinderItem ID="1" Type="ResearchFolder" Created="2011-05-27 20:21:43 +0200" Modified="2011-05-27 20:25:45 +0200">
@@ -745,7 +755,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2011-11-30 20:21:43 +0100" IgnoreDeadline="No">50000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetDaily="No" DeterminedFromDeadline="No" WritingDays="">1667</SessionTarget>
-        <PreviousSession Words="1079" Characters="6657" Date="2011-11-02 23:31:35 +0100"></PreviousSession>
+        <PreviousSession Words="1793" Characters="10937" Date="2011-11-03 23:57:30 +0100"></PreviousSession>
     </ProjectTargets>
     <TemplateFolderID>26</TemplateFolderID>
     <Favorites>
