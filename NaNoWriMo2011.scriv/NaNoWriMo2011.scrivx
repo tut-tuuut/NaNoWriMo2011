@@ -38,7 +38,7 @@
                         <TextSelection>9884,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="66" Type="Text" Created="2011-11-03 20:20:27 +0100" Modified="2011-11-05 20:57:41 +0100">
+                <BinderItem ID="66" Type="Text" Created="2011-11-03 20:20:27 +0100" Modified="2011-11-06 15:46:06 +0100">
                     <Title>Crocodiles et chutes d'objets</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -48,14 +48,24 @@
                         <TextSelection>11396,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="67" Type="Text" Created="2011-11-05 15:35:13 +0100" Modified="2011-11-06 10:29:16 +0100">
+                <BinderItem ID="67" Type="Text" Created="2011-11-05 15:35:13 +0100" Modified="2011-11-06 15:45:03 +0100">
                     <Title>Descente et décollages</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>79,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>18467,0</TextSelection>
+                        <TextSelection>20670,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="68" Type="Text" Created="2011-11-06 15:46:15 +0100" Modified="2011-11-07 22:06:59 +0100">
+                    <Title>Baggaley S.O.S.</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>276,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>15766,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>
@@ -764,12 +774,12 @@
     </StatusSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2011-11-30 20:21:43 +0100" IgnoreDeadline="No">50000</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetDaily="No" DeterminedFromDeadline="No" WritingDays="">2500</SessionTarget>
-        <PreviousSession Words="3362" Characters="20624" Date="2011-11-06 13:18:29 +0100"></PreviousSession>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetDaily="Yes" DeterminedFromDeadline="No" WritingDays="">1667</SessionTarget>
+        <PreviousSession Words="2042" Characters="12457" Date="2011-11-07 22:21:52 +0100"></PreviousSession>
     </ProjectTargets>
     <TemplateFolderID>26</TemplateFolderID>
     <Favorites>
         <BinderID>25</BinderID>
     </Favorites>
-    <PrintSettings PaperSize="595.200012,841.799988" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
+    <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
