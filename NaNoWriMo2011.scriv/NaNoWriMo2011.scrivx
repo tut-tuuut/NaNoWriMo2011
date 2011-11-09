@@ -58,14 +58,14 @@
                         <TextSelection>20670,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="68" Type="Text" Created="2011-11-06 15:46:15 +0100" Modified="2011-11-07 22:06:59 +0100">
+                <BinderItem ID="68" Type="Text" Created="2011-11-06 15:46:15 +0100" Modified="2011-11-09 22:24:58 +0100">
                     <Title>Baggaley S.O.S.</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>276,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>15766,0</TextSelection>
+                        <TextSelection>28311,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>
@@ -353,7 +353,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>2035,0</TextSelection>
+                                <TextSelection>1342,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem ID="44" Type="Text" Created="2011-06-10 21:57:18 +0200" Modified="2011-06-10 22:10:50 +0200">
@@ -775,7 +775,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2011-11-30 20:21:43 +0100" IgnoreDeadline="No">50000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetDaily="Yes" DeterminedFromDeadline="No" WritingDays="">1667</SessionTarget>
-        <PreviousSession Words="2042" Characters="12457" Date="2011-11-07 22:21:52 +0100"></PreviousSession>
+        <PreviousSession Words="1685" Characters="10381" Date="2011-11-09 22:35:45 +0100"></PreviousSession>
     </ProjectTargets>
     <TemplateFolderID>26</TemplateFolderID>
     <Favorites>
