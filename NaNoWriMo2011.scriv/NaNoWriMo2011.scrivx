@@ -78,14 +78,14 @@
                         <TextSelection>17005,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="70" Type="Text" Created="2011-11-11 22:04:10 +0100" Modified="2011-11-11 22:47:41 +0100">
+                <BinderItem ID="70" Type="Text" Created="2011-11-11 22:04:10 +0100" Modified="2011-11-12 20:19:57 +0100">
                     <Title>Retour à Sido</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>3247,0</TextSelection>
+                        <TextSelection>14426,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>
@@ -526,6 +526,19 @@
                                 <TextSelection>343,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
+                        <BinderItem ID="71" Type="Text" Created="2011-05-29 00:42:05 +0200" Modified="2011-11-12 18:47:35 +0100">
+                            <Title>Arianne X</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IndexCardImageFileExtension>gif</IndexCardImageFileExtension>
+                                <IconFileName>Character Sheet (Photo).png</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>314,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
                     </Children>
                 </BinderItem>
                 <BinderItem ID="7" Type="Folder" Created="2011-05-27 20:31:01 +0200" Modified="2011-05-27 20:31:22 +0200">
@@ -794,8 +807,8 @@
     </StatusSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2011-11-30 20:21:43 +0100" IgnoreDeadline="No">50000</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetDaily="Yes" DeterminedFromDeadline="No" WritingDays="">3322</SessionTarget>
-        <PreviousSession Words="2546" Characters="15206" Date="2011-11-11 23:15:52 +0100"></PreviousSession>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetDaily="Yes" DeterminedFromDeadline="No" WritingDays="">2600</SessionTarget>
+        <PreviousSession Words="2138" Characters="13482" Date="2011-11-12 20:19:57 +0100"></PreviousSession>
     </ProjectTargets>
     <TemplateFolderID>26</TemplateFolderID>
     <Favorites>
