@@ -48,17 +48,21 @@
                         <TextSelection>11396,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="67" Type="Text" Created="2011-11-05 15:35:13 +0100" Modified="2011-11-13 00:34:39 +0100">
+                <BinderItem ID="67" Type="Text" Created="2011-11-05 15:35:13 +0100" Modified="2011-11-13 15:39:30 +0100">
                     <Title>Descente et décollages</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>79,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>20670,0</TextSelection>
+                        <TextSelection>18406,0</TextSelection>
                     </TextSettings>
+                    <Keywords>
+                        <KeywordID>1</KeywordID>
+                        <KeywordID>5</KeywordID>
+                    </Keywords>
                 </BinderItem>
-                <BinderItem ID="68" Type="Text" Created="2011-11-06 15:46:15 +0100" Modified="2011-11-13 00:36:06 +0100">
+                <BinderItem ID="68" Type="Text" Created="2011-11-06 15:46:15 +0100" Modified="2011-11-13 15:39:04 +0100">
                     <Title>Baggaley S.O.S.</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -67,26 +71,60 @@
                     <TextSettings>
                         <TextSelection>28311,0</TextSelection>
                     </TextSettings>
+                    <Keywords>
+                        <KeywordID>4</KeywordID>
+                    </Keywords>
                 </BinderItem>
-                <BinderItem ID="69" Type="Text" Created="2011-11-10 20:40:33 +0100" Modified="2011-11-13 00:36:34 +0100">
+                <BinderItem ID="69" Type="Text" Created="2011-11-10 20:40:33 +0100" Modified="2011-11-13 15:40:49 +0100">
                     <Title>Bienvenue à bord</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>17005,0</TextSelection>
+                        <TextSelection>17028,0</TextSelection>
                     </TextSettings>
+                    <Keywords>
+                        <KeywordID>9</KeywordID>
+                        <KeywordID>10</KeywordID>
+                        <KeywordID>11</KeywordID>
+                        <KeywordID>12</KeywordID>
+                    </Keywords>
                 </BinderItem>
-                <BinderItem ID="70" Type="Text" Created="2011-11-11 22:04:10 +0100" Modified="2011-11-13 01:24:48 +0100">
+                <BinderItem ID="70" Type="Text" Created="2011-11-11 22:04:10 +0100" Modified="2011-11-13 16:16:56 +0100">
                     <Title>Retour à Sido</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>26082,0</TextSelection>
+                        <TextSelection>30018,0</TextSelection>
                     </TextSettings>
+                    <Keywords>
+                        <KeywordID>1</KeywordID>
+                        <KeywordID>2</KeywordID>
+                        <KeywordID>3</KeywordID>
+                        <KeywordID>6</KeywordID>
+                        <KeywordID>7</KeywordID>
+                        <KeywordID>8</KeywordID>
+                        <KeywordID>12</KeywordID>
+                        <KeywordID>10</KeywordID>
+                    </Keywords>
+                </BinderItem>
+                <BinderItem ID="72" Type="Text" Created="2011-11-13 15:37:48 +0100" Modified="2011-11-13 23:45:20 +0100">
+                    <Title>Direction Askhyl</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>313,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>5838,0</TextSelection>
+                    </TextSettings>
+                    <Keywords>
+                        <KeywordID>5</KeywordID>
+                        <KeywordID>6</KeywordID>
+                        <KeywordID>12</KeywordID>
+                    </Keywords>
                 </BinderItem>
             </Children>
         </BinderItem>
@@ -396,6 +434,26 @@
                                 <TextSelection>664,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
+                        <BinderItem ID="73" Type="Text" Created="2011-11-13 15:38:13 +0100" Modified="2011-11-13 15:38:15 +0100">
+                            <Title>Askhyl</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="74" Type="Text" Created="2011-11-13 15:38:21 +0100" Modified="2011-11-13 15:38:23 +0100">
+                            <Title>Sido</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
                     </Children>
                 </BinderItem>
                 <BinderItem ID="6" Type="Folder" Created="2011-05-27 20:25:20 +0200" Modified="2011-05-27 20:27:30 +0200">
@@ -455,7 +513,7 @@
                                 <Reference BinderID="41" Destination="[Internal Link]">Noah Farrés</Reference>
                             </References>
                         </BinderItem>
-                        <BinderItem ID="41" Type="Text" Created="2011-05-29 00:42:05 +0200" Modified="2011-10-09 12:09:30 +0200">
+                        <BinderItem ID="41" Type="Text" Created="2011-05-29 00:42:05 +0200" Modified="2011-11-13 16:13:45 +0100">
                             <Title>Noah Farrés</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -465,7 +523,7 @@
                                 <IconFileName>Characters (Photo).png</IconFileName>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>2015,0</TextSelection>
+                                <TextSelection>285,0</TextSelection>
                             </TextSettings>
                             <References>
                                 <Reference BinderID="35" Destination="[Internal Link]">Ama Farrés</Reference>
@@ -513,7 +571,7 @@
                                 <TextSelection>14,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="58" Type="Text" Created="2011-05-29 00:42:05 +0200" Modified="2011-10-18 22:28:54 +0200">
+                        <BinderItem ID="58" Type="Text" Created="2011-05-29 00:42:05 +0200" Modified="2011-11-13 16:17:48 +0100">
                             <Title>Jérémie Van Fitzgerald</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -523,10 +581,10 @@
                                 <IconFileName>Character Sheet (Photo).png</IconFileName>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>343,0</TextSelection>
+                                <TextSelection>286,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="71" Type="Text" Created="2011-05-29 00:42:05 +0200" Modified="2011-11-12 18:47:35 +0100">
+                        <BinderItem ID="71" Type="Text" Created="2011-05-29 00:42:05 +0200" Modified="2011-11-13 16:17:59 +0100">
                             <Title>Arianne X</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -536,7 +594,7 @@
                                 <IconFileName>Character Sheet (Photo).png</IconFileName>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>314,0</TextSelection>
+                                <TextSelection>283,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -784,6 +842,56 @@
             <Title>Search Results</Title>
         </Collection>
     </Collections>
+    <Keywords>
+        <Keyword ID="10">
+            <Title>Arianne</Title>
+            <Color>0.583834 0.017066 0.85311</Color>
+        </Keyword>
+        <Keyword ID="5">
+            <Title>Askhyl</Title>
+            <Color>0.775694 0.741562 0.398661</Color>
+        </Keyword>
+        <Keyword ID="4">
+            <Title>Baggaley II</Title>
+            <Color>0.802251 0.987101 0.220118</Color>
+        </Keyword>
+        <Keyword ID="11">
+            <Title>Bathilda</Title>
+            <Color>0.709638 0.311726 0.163966</Color>
+        </Keyword>
+        <Keyword ID="3">
+            <Title>Coucherie</Title>
+            <Color>0.745384 0.180812 0.372254</Color>
+        </Keyword>
+        <Keyword ID="12">
+            <Title>Estelle</Title>
+            <Color>0.999029 0.153168 0.573346</Color>
+        </Keyword>
+        <Keyword ID="7">
+            <Title>Faïza</Title>
+            <Color>0.843667 0.943492 0.940961</Color>
+        </Keyword>
+        <Keyword ID="9">
+            <Title>Frédéric</Title>
+            <Color>0.001168 0.29134 0.129811</Color>
+        </Keyword>
+        <Keyword ID="6">
+            <Title>Jérémie</Title>
+            <Color>0.454505 0.366455 0.719931</Color>
+        </Keyword>
+        <Keyword ID="8">
+            <Title>Médecin de bord</Title>
+            <Color>0.757041 0.126708 0.486459</Color>
+        </Keyword>
+        <Keyword ID="1">
+            <Title>Sido</Title>
+            <Color>0.40938 0.125804 0.294661</Color>
+        </Keyword>
+        <Keyword ID="2">
+            <Title>Vision du vis</Title>
+            <Color>0.485412 0.289391 0.841442</Color>
+        </Keyword>
+    </Keywords>
     <LabelSettings>
         <Title>Label</Title>
         <DefaultLabelID>-1</DefaultLabelID>
@@ -808,11 +916,11 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2011-11-30 20:21:43 +0100" IgnoreDeadline="No">50000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetDaily="Yes" DeterminedFromDeadline="No" WritingDays="">2600</SessionTarget>
-        <PreviousSession Words="1082" Characters="6436" Date="2011-11-13 01:30:58 +0100"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2011-11-14 00:02:45 +0100"></PreviousSession>
     </ProjectTargets>
     <TemplateFolderID>26</TemplateFolderID>
     <Favorites>
         <BinderID>25</BinderID>
     </Favorites>
-    <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
+    <PrintSettings PaperSize="595.200012,841.799988" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
