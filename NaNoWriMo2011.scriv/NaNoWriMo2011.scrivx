@@ -7,7 +7,7 @@
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
             <Children>
-                <BinderItem ID="62" Type="Text" Created="2011-11-01 00:00:18 +0100" Modified="2011-11-01 17:22:30 +0100">
+                <BinderItem ID="62" Type="Text" Created="2011-11-01 00:00:18 +0100" Modified="2011-11-13 00:41:51 +0100">
                     <Title>Prologue</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -48,7 +48,7 @@
                         <TextSelection>11396,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="67" Type="Text" Created="2011-11-05 15:35:13 +0100" Modified="2011-11-06 15:45:03 +0100">
+                <BinderItem ID="67" Type="Text" Created="2011-11-05 15:35:13 +0100" Modified="2011-11-13 00:34:39 +0100">
                     <Title>Descente et décollages</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -58,7 +58,7 @@
                         <TextSelection>20670,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="68" Type="Text" Created="2011-11-06 15:46:15 +0100" Modified="2011-11-09 22:24:58 +0100">
+                <BinderItem ID="68" Type="Text" Created="2011-11-06 15:46:15 +0100" Modified="2011-11-13 00:36:06 +0100">
                     <Title>Baggaley S.O.S.</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -68,7 +68,7 @@
                         <TextSelection>28311,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="69" Type="Text" Created="2011-11-10 20:40:33 +0100" Modified="2011-11-11 22:03:58 +0100">
+                <BinderItem ID="69" Type="Text" Created="2011-11-10 20:40:33 +0100" Modified="2011-11-13 00:36:34 +0100">
                     <Title>Bienvenue à bord</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -78,14 +78,14 @@
                         <TextSelection>17005,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="70" Type="Text" Created="2011-11-11 22:04:10 +0100" Modified="2011-11-12 20:19:57 +0100">
+                <BinderItem ID="70" Type="Text" Created="2011-11-11 22:04:10 +0100" Modified="2011-11-13 01:24:48 +0100">
                     <Title>Retour à Sido</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>14426,0</TextSelection>
+                        <TextSelection>26082,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>
@@ -808,7 +808,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2011-11-30 20:21:43 +0100" IgnoreDeadline="No">50000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetDaily="Yes" DeterminedFromDeadline="No" WritingDays="">2600</SessionTarget>
-        <PreviousSession Words="2138" Characters="13482" Date="2011-11-12 20:19:57 +0100"></PreviousSession>
+        <PreviousSession Words="1082" Characters="6436" Date="2011-11-13 01:30:58 +0100"></PreviousSession>
     </ProjectTargets>
     <TemplateFolderID>26</TemplateFolderID>
     <Favorites>
