@@ -196,7 +196,7 @@
 	<key>supportingDocumentEditor.navigationHistory</key>
 	<dict>
 		<key>CurrentIndex</key>
-		<integer>677</integer>
+		<integer>679</integer>
 		<key>NavigationHistoryArray</key>
 		<array>
 			<dict>
@@ -5675,12 +5675,28 @@
 				<key>ViewMode</key>
 				<integer>0</integer>
 			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>66</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>72</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
 		</array>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 914.4}, {616.8, 478.4}}</string>
+	<string>{{0, 2342.29}, {440.571, 341.714}}</string>
 	<key>supportingDocumentEditor.selectedRanges</key>
-	<string>{5838, 0}</string>
+	<string>{9183, 0}</string>
 	<key>supportingDocumentEditor.textEditorState</key>
 	<dict>
 		<key>hasMultiplePages</key>
@@ -5688,7 +5704,7 @@
 		<key>isRulerVisible</key>
 		<true/>
 		<key>textScale</key>
-		<integer>125</integer>
+		<integer>175</integer>
 		<key>usesFacingPages</key>
 		<false/>
 		<key>usesTypewriterScrolling</key>

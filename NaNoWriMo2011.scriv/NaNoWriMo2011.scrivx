@@ -111,14 +111,14 @@
                         <KeywordID>10</KeywordID>
                     </Keywords>
                 </BinderItem>
-                <BinderItem ID="72" Type="Text" Created="2011-11-13 15:37:48 +0100" Modified="2011-11-13 23:45:20 +0100">
+                <BinderItem ID="72" Type="Text" Created="2011-11-13 15:37:48 +0100" Modified="2011-11-14 23:42:22 +0100">
                     <Title>Direction Askhyl</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
-                        <NotesTextSelection>313,0</NotesTextSelection>
+                        <NotesTextSelection>315,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>5838,0</TextSelection>
+                        <TextSelection>9183,0</TextSelection>
                     </TextSettings>
                     <Keywords>
                         <KeywordID>5</KeywordID>
@@ -915,12 +915,12 @@
     </StatusSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2011-11-30 20:21:43 +0100" IgnoreDeadline="No">50000</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetDaily="Yes" DeterminedFromDeadline="No" WritingDays="">2600</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2011-11-14 00:02:45 +0100"></PreviousSession>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetDaily="Yes" DeterminedFromDeadline="No" WritingDays="">1667</SessionTarget>
+        <PreviousSession Words="538" Characters="3345" Date="2011-11-14 23:42:24 +0100"></PreviousSession>
     </ProjectTargets>
     <TemplateFolderID>26</TemplateFolderID>
     <Favorites>
         <BinderID>25</BinderID>
     </Favorites>
-    <PrintSettings PaperSize="595.200012,841.799988" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
+    <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
