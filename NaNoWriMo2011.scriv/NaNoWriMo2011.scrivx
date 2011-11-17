@@ -15,7 +15,7 @@
                         <IgnoresTitlePrefixAndSuffix>Yes</IgnoresTitlePrefixAndSuffix>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>2958,0</TextSelection>
+                        <TextSelection>2880,5</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem ID="63" Type="Text" Created="2011-11-01 10:01:58 +0100" Modified="2011-11-01 21:27:42 +0100">
@@ -111,14 +111,14 @@
                         <KeywordID>10</KeywordID>
                     </Keywords>
                 </BinderItem>
-                <BinderItem ID="72" Type="Text" Created="2011-11-13 15:37:48 +0100" Modified="2011-11-14 23:42:22 +0100">
+                <BinderItem ID="72" Type="Text" Created="2011-11-13 15:37:48 +0100" Modified="2011-11-16 23:17:31 +0100">
                     <Title>Direction Askhyl</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
-                        <NotesTextSelection>315,0</NotesTextSelection>
+                        <NotesTextSelection>336,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>9183,0</TextSelection>
+                        <TextSelection>23861,0</TextSelection>
                     </TextSettings>
                     <Keywords>
                         <KeywordID>5</KeywordID>
@@ -486,7 +486,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                                 <ShowSynopsisImage>Yes</ShowSynopsisImage>
                                 <IndexCardImageFileExtension>gif</IndexCardImageFileExtension>
-                                <IconFileName>Characters.tif</IconFileName>
+                                <IconFileName>Characters (Photo).png</IconFileName>
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>2510,0</TextSelection>
@@ -578,7 +578,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                                 <ShowSynopsisImage>Yes</ShowSynopsisImage>
                                 <IndexCardImageFileExtension>gif</IndexCardImageFileExtension>
-                                <IconFileName>Character Sheet (Photo).png</IconFileName>
+                                <IconFileName>Characters.tif</IconFileName>
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>286,0</TextSelection>
@@ -597,95 +597,18 @@
                                 <TextSelection>283,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                    </Children>
-                </BinderItem>
-                <BinderItem ID="7" Type="Folder" Created="2011-05-27 20:31:01 +0200" Modified="2011-05-27 20:31:22 +0200">
-                    <Title>Wikipedia</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <NotesTextSelection>0,0</NotesTextSelection>
-                        <IconFileName>Lectern.png</IconFileName>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>0,0</TextSelection>
-                    </TextSettings>
-                    <Children>
-                        <BinderItem ID="8" Type="PDF" Created="2011-05-27 20:37:25 +0200" Modified="2011-05-27 20:38:45 +0200">
-                            <Title>Terraformation</Title>
+                        <BinderItem ID="75" Type="Text" Created="2011-05-29 00:42:05 +0200" Modified="2011-11-16 22:09:45 +0100">
+                            <Title>Le médecin avec un bazooka</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
-                                <FileExtension>pdf</FileExtension>
                                 <NotesTextSelection>0,0</NotesTextSelection>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IndexCardImageFileExtension>gif</IndexCardImageFileExtension>
+                                <IconFileName>Character Sheet (Photo).png</IconFileName>
                             </MetaData>
-                            <MediaSettings>
-                                <CurrentPDFPage>0</CurrentPDFPage>
-                            </MediaSettings>
-                        </BinderItem>
-                        <BinderItem ID="9" Type="PDF" Created="2011-05-27 20:43:09 +0200" Modified="2011-05-27 20:43:13 +0200">
-                            <Title>Terraformation en fiction</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <FileExtension>pdf</FileExtension>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <MediaSettings>
-                                <CurrentPDFPage>0</CurrentPDFPage>
-                            </MediaSettings>
-                        </BinderItem>
-                        <BinderItem ID="10" Type="PDF" Created="2011-05-27 20:42:59 +0200" Modified="2011-05-27 20:43:05 +0200">
-                            <Title>Terraformation de Mars</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <FileExtension>pdf</FileExtension>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <MediaSettings>
-                                <CurrentPDFPage>2</CurrentPDFPage>
-                            </MediaSettings>
-                        </BinderItem>
-                        <BinderItem ID="11" Type="PDF" Created="2011-05-27 20:42:47 +0200" Modified="2011-05-27 20:42:49 +0200">
-                            <Title>Terraformation de Vénus</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <FileExtension>pdf</FileExtension>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <MediaSettings>
-                                <CurrentPDFPage>0</CurrentPDFPage>
-                            </MediaSettings>
-                        </BinderItem>
-                        <BinderItem ID="12" Type="PDF" Created="2011-05-27 20:42:08 +0200" Modified="2011-05-27 20:42:46 +0200">
-                            <Title>Colonisation de l'espace</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <FileExtension>pdf</FileExtension>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <MediaSettings>
-                                <CurrentPDFPage>2</CurrentPDFPage>
-                            </MediaSettings>
-                        </BinderItem>
-                        <BinderItem ID="13" Type="PDF" Created="2011-05-27 20:56:39 +0200" Modified="2011-05-27 20:56:43 +0200">
-                            <Title>Colonisation de Vénus</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <FileExtension>pdf</FileExtension>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <MediaSettings>
-                                <CurrentPDFPage>4</CurrentPDFPage>
-                            </MediaSettings>
-                        </BinderItem>
-                        <BinderItem ID="29" Type="PDF" Created="2011-05-29 21:33:18 +0200" Modified="2011-05-29 21:33:22 +0200">
-                            <Title>Tore de Stanford</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <FileExtension>pdf</FileExtension>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <MediaSettings>
-                                <CurrentPDFPage>0</CurrentPDFPage>
-                            </MediaSettings>
+                            <TextSettings>
+                                <TextSelection>203,0</TextSelection>
+                            </TextSettings>
                         </BinderItem>
                     </Children>
                 </BinderItem>
@@ -916,11 +839,11 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2011-11-30 20:21:43 +0100" IgnoreDeadline="No">50000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetDaily="Yes" DeterminedFromDeadline="No" WritingDays="">1667</SessionTarget>
-        <PreviousSession Words="538" Characters="3345" Date="2011-11-14 23:42:24 +0100"></PreviousSession>
+        <PreviousSession Words="628" Characters="3821" Date="2011-11-16 23:25:28 +0100"></PreviousSession>
     </ProjectTargets>
     <TemplateFolderID>26</TemplateFolderID>
     <Favorites>
         <BinderID>25</BinderID>
     </Favorites>
-    <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
+    <PrintSettings PaperSize="595.200012,841.799988" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
