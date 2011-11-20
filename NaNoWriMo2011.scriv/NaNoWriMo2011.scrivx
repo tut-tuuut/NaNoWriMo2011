@@ -126,14 +126,14 @@
                         <KeywordID>12</KeywordID>
                     </Keywords>
                 </BinderItem>
-                <BinderItem ID="76" Type="Text" Created="2011-11-17 23:09:10 +0100" Modified="2011-11-20 14:59:51 +0100">
+                <BinderItem ID="76" Type="Text" Created="2011-11-17 23:09:10 +0100" Modified="2011-11-20 16:00:24 +0100">
                     <Title>De l'autre côté du miroir</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>137,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>5472,0</TextSelection>
+                        <TextSelection>11381,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>
@@ -849,7 +849,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2011-11-30 20:21:43 +0100" IgnoreDeadline="No">50000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetDaily="Yes" DeterminedFromDeadline="Yes" WritingDays="1-7">2275</SessionTarget>
-        <PreviousSession Words="280" Characters="1776" Date="2011-11-20 15:01:30 +0100"></PreviousSession>
+        <PreviousSession Words="1239" Characters="7685" Date="2011-11-20 16:00:29 +0100"></PreviousSession>
     </ProjectTargets>
     <TemplateFolderID>26</TemplateFolderID>
     <Favorites>
