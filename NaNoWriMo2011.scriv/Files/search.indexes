@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SearchIndexes Version="1.0">
     <Documents>
-        <Document ID="39">
-            <Title>Tondeuses à gazon</Title>
-            <Synopsis>Inspiration des hork-bajir de mon enfance.</Synopsis>
+        <Document ID="53">
+            <Title>Baggaley S.O.S.</Title>
+            <Synopsis>Estelle intègre l’équipage du Garibaldi XII, un croiseur de combat successeur de son homonyme de la guerre (suite à la disparition de son vaisseau d’exploration ?). Quelque temps s’écoule, et un jour on capte un étrange signal de détresse, en plein milieu d’une zone désertique sur la planète rocheuse Baggaley (nommée ainsi en hommage au scientifique Hugo Baggaley qui l’a découverte et analysée). Le signal se révèle être un piège. Un ver des sables géant / un kraken du désert attaque la pinasse envoyée en reconnaissance. Estelle, qui pilote la pinasse, sauve son équipage grâce à des réflexes impressionnants, mais elle est blessée dans l’opération.</Synopsis>
         </Document>
         <Document ID="61">
             <Title>Noms de lieux</Title>
@@ -640,8 +640,7 @@ Elle ne sut pas vraiment comment interpréter cette dernière remarque. Se conte
         </Document>
         <Document ID="76">
             <Title>De l'autre côté du miroir</Title>
-            <Text>http://tinysong.com/ePad
-Dans la cathédrale immense pesait un silence pesant. Une tristesse et une détresse profonde se lisaient sur tous les visages. Le choeur des prêtresses entama sa longue liturgie funèbre et toutes les pensées se tournèrent vers l’illustre Nori’on, dont l’âme venait de quitter la terre pour rejoindre les terres d’Isiriand. Son corps, si frêle finalement, reposait dans son grand cercueil de verre…
+            <Text>Dans la cathédrale immense pesait un silence pesant. Une tristesse et une détresse profonde se lisaient sur tous les visages. Le choeur des prêtresses entama sa longue liturgie funèbre et toutes les pensées se tournèrent vers l’illustre Nori’on, dont l’âme venait de quitter la terre pour rejoindre les terres d’Isiriand. Son corps, si frêle finalement, reposait dans son grand cercueil de verre…
 « Estelle ! Estelle, réveille-toi ! »
 …avec, sur le visage, un air de sérénité étrange qui semblait dire aux pauvres âmes restées là de ne pas s’inquiéter, et de continuer à vivre sans elle. La neige ne serait plus jamais aussi jolie, ni le printemps aussi doux si sa bien-aimée n’était plus là pour les voir et les ressentir aussi, semblait-il à Ali’an. Le désespoir semblait la seule chose envisageable à cet instant, mais Ali’an était le roi, et…
 « Bon sang, Estelle ! Réveille-toi ! Écoute-moi ! »
@@ -661,7 +660,19 @@ Elle tenta de toucher un « mur » proche d’elle, mais il s’évanouit dès
 « Est-ce que ça ressemble à ça quand tu prends de la drogue ? s’enquit Frédéric, curieux.
 — Oh, ça… commença Estelle avec un sourire. Non, on est beaucoup moins lucide quand on est drogué. Beaucoup plus bête.
 — Ah oui, je crois que je vois. »
-À son tour, il tenta d’éprouver la solidité de son entourage.</Text>
+À son tour, il tenta d’éprouver la solidité de son entourage, avec un résultat tout aussi joli que précédemment. Les parois aux reflets mouvants qui les entouraient frémirent, et les illusions démasquées disparurent. À tâtons, Frédéric et Estelle se mirent en route, solidement accrochés l’un à l’autre, pour progresser petit à petit vers une sortie hypothétique.
+
+« Voyons ce gros caillou de plus près. Par ici, vous autres ! C’est forcément lui, la source de ce que vous avez vu cette nuit. Nous trouverons peut-être des indices sur le sort — désirable ou — qui a pu être celui de Frédéric et d’Estelle.
+— Oui, capitaine. Allons-y ! »
+Le petit groupe constitué de Bathilda, Arianne, Jérémie, Sylvain et {Tartempion le médecin} s’avança vers le centre de la zone morte, au milieu duquel se dressait le dôme de pierre noire brillante, qui ressemblait furieusement à une sinistre bulle de gaz noir.
+Aucune des quatre personnes qui s’avançaient n’osait exprimer le malaise croissant qui leur serrait les entrailles au fur et à mesure qu’ils s’approchaient. Comme un sifflement trop aigu pour que l’oreille le saisisse vraiment, mais suffisamment fort pour qu’on puisse le ressentir et savoir confusément qu’il y a un problème, une impression désagréable montait dans l’esprit des cinq humains qui s’approchaient de la pierre.
+Celle-ci, à l’instar du fragment récupéré par Jérémie, était d’un noir parcouru de reflets irisés. L’effet était cependant beaucoup plus troublant sur cette immense structure que sur un minuscule morceau de pierre, et tous se figèrent en une session d’admiration muette tandis que le soleil reflétait ses rayons sur la pierre sombre.
+Bathilda s’arracha la première à la contemplation de la matière étrange, et entreprit de s’approcher encore puis de faire le tour de la structure. Le spectacle était saisissant, les reflets multicolores .</Text>
+            <Notes>	•	Open your heart - FF7
+	•	http://tinysong.com/ePad
+	•	Unknown sky dimension - grandia soundtracks II
+	•	Leading Lights, Sonic Adventure
+</Notes>
         </Document>
         <Document ID="6">
             <Title>Personnages</Title>
@@ -922,19 +933,19 @@ Bouts de scénario associés :</Text>
             <Title>Races extraterrestres</Title>
             <Synopsis>C’est pas marrant s’il n’y a pas d’exotisme.</Synopsis>
         </Document>
+        <Document ID="46">
+            <Title>Plan</Title>
+        </Document>
+        <Document ID="39">
+            <Title>Tondeuses à gazon</Title>
+            <Synopsis>Inspiration des hork-bajir de mon enfance.</Synopsis>
+        </Document>
         <Document ID="60">
             <Title>Noms de vaisseaux</Title>
             <Text>Le Garibaldi est un vaisseau de transport de marchandises aussi bien armé et équipé qu’un vaisseau militaire.
 Le Fleur Bleue est le vaisseau de Bathilda. C’est assez rigolo parce que, vu le caractère de chiotte de son capitaine et les activités tout à fait illégales auxquelles il contribue, ce vaisseau porte très mal son nom (si ce n’est qu’il est effectivement peint en bleu ciel avec une fleur bleu foncé sur la coque tribord).
 Les vaisseaux commerciaux ont des noms plutôt poétiques : la firme Vivaldi possède le Quatre saisons accompagné du Feuille d’automne, du Flocon de neige, du Fleur de Cerisier et du Rayon de soleil. Ils sont escortés par le Tempête, un croiseur de combat racheté à la Flotte Impériale après la guerre, assez vieux mais toujours efficace, pour dissuader les pirates.
 Côté militaire, on tape plutôt dans les noms évocateurs comme le Zeus, le Héra, le Courageux, le Wolverine, le Moreau, le Alistair Dupont, et des noms de vents : le Sirocco, le Mistral, le Tramontane, etc.</Text>
-        </Document>
-        <Document ID="53">
-            <Title>Baggaley S.O.S.</Title>
-            <Synopsis>Estelle intègre l’équipage du Garibaldi XII, un croiseur de combat successeur de son homonyme de la guerre (suite à la disparition de son vaisseau d’exploration ?). Quelque temps s’écoule, et un jour on capte un étrange signal de détresse, en plein milieu d’une zone désertique sur la planète rocheuse Baggaley (nommée ainsi en hommage au scientifique Hugo Baggaley qui l’a découverte et analysée). Le signal se révèle être un piège. Un ver des sables géant / un kraken du désert attaque la pinasse envoyée en reconnaissance. Estelle, qui pilote la pinasse, sauve son équipage grâce à des réflexes impressionnants, mais elle est blessée dans l’opération.</Synopsis>
-        </Document>
-        <Document ID="46">
-            <Title>Plan</Title>
         </Document>
     </Documents>
 </SearchIndexes>

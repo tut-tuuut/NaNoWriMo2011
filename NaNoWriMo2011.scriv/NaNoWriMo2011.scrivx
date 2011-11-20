@@ -98,7 +98,7 @@
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>30018,0</TextSelection>
+                        <TextSelection>29692,0</TextSelection>
                     </TextSettings>
                     <Keywords>
                         <KeywordID>1</KeywordID>
@@ -126,14 +126,14 @@
                         <KeywordID>12</KeywordID>
                     </Keywords>
                 </BinderItem>
-                <BinderItem ID="76" Type="Text" Created="2011-11-17 23:09:10 +0100" Modified="2011-11-17 23:39:28 +0100">
+                <BinderItem ID="76" Type="Text" Created="2011-11-17 23:09:10 +0100" Modified="2011-11-20 14:59:51 +0100">
                     <Title>De l'autre côté du miroir</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
-                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <NotesTextSelection>137,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>3696,0</TextSelection>
+                        <TextSelection>5472,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>
@@ -848,12 +848,12 @@
     </StatusSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2011-11-30 20:21:43 +0100" IgnoreDeadline="No">50000</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetDaily="Yes" DeterminedFromDeadline="No" WritingDays="">1667</SessionTarget>
-        <PreviousSession Words="1433" Characters="8723" Date="2011-11-17 23:56:53 +0100"></PreviousSession>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetDaily="Yes" DeterminedFromDeadline="Yes" WritingDays="1-7">2275</SessionTarget>
+        <PreviousSession Words="280" Characters="1776" Date="2011-11-20 15:01:30 +0100"></PreviousSession>
     </ProjectTargets>
     <TemplateFolderID>26</TemplateFolderID>
     <Favorites>
         <BinderID>25</BinderID>
     </Favorites>
-    <PrintSettings PaperSize="595.200012,841.799988" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
+    <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
