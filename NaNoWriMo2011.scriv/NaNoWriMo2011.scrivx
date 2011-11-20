@@ -15,7 +15,7 @@
                         <IgnoresTitlePrefixAndSuffix>Yes</IgnoresTitlePrefixAndSuffix>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>2880,5</TextSelection>
+                        <TextSelection>6095,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem ID="63" Type="Text" Created="2011-11-01 10:01:58 +0100" Modified="2011-11-01 21:27:42 +0100">
@@ -69,7 +69,7 @@
                         <NotesTextSelection>276,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>28311,0</TextSelection>
+                        <TextSelection>28313,0</TextSelection>
                     </TextSettings>
                     <Keywords>
                         <KeywordID>4</KeywordID>
@@ -126,14 +126,24 @@
                         <KeywordID>12</KeywordID>
                     </Keywords>
                 </BinderItem>
-                <BinderItem ID="76" Type="Text" Created="2011-11-17 23:09:10 +0100" Modified="2011-11-20 17:00:48 +0100">
+                <BinderItem ID="76" Type="Text" Created="2011-11-17 23:09:10 +0100" Modified="2011-11-20 17:31:43 +0100">
                     <Title>De l'autre côté du miroir</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>137,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>16592,0</TextSelection>
+                        <TextSelection>18768,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="77" Type="Text" Created="2011-11-20 17:31:49 +0100" Modified="2011-11-20 18:16:46 +0100">
+                    <Title>L'âge du capitaine</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>508,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>
@@ -849,7 +859,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2011-11-30 20:21:43 +0100" IgnoreDeadline="No">50000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetDaily="Yes" DeterminedFromDeadline="Yes" WritingDays="1-7">2275</SessionTarget>
-        <PreviousSession Words="2073" Characters="12896" Date="2011-11-20 17:02:10 +0100"></PreviousSession>
+        <PreviousSession Words="2834" Characters="17700" Date="2011-11-20 18:34:47 +0100"></PreviousSession>
     </ProjectTargets>
     <TemplateFolderID>26</TemplateFolderID>
     <Favorites>
