@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Version="1.0" Creator="SCRMAC-2.1-14118">
+<ScrivenerProject Version="1.0" Creator="SCRMAC-2.2-15858">
     <Binder>
         <BinderItem ID="0" Type="DraftFolder" Created="2011-05-27 20:21:43 +0200" Modified="2011-10-09 12:00:23 +0200">
             <Title>NaNoWriMo</Title>
@@ -15,7 +15,7 @@
                         <IgnoresTitlePrefixAndSuffix>Yes</IgnoresTitlePrefixAndSuffix>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>6095,0</TextSelection>
+                        <TextSelection>643,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem ID="63" Type="Text" Created="2011-11-01 10:01:58 +0100" Modified="2011-11-01 21:27:42 +0100">
@@ -136,14 +136,14 @@
                         <TextSelection>18768,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="77" Type="Text" Created="2011-11-20 17:31:49 +0100" Modified="2011-11-20 18:16:46 +0100">
+                <BinderItem ID="77" Type="Text" Created="2011-11-20 17:31:49 +0100" Modified="2011-11-21 23:18:28 +0100">
                     <Title>L'âge du capitaine</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
-                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <NotesTextSelection>36,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>508,0</TextSelection>
+                        <TextSelection>20600,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>
@@ -395,7 +395,7 @@
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
-                        <IconFileName>Locations.tif</IconFileName>
+                        <IconFileName>Locations (Map).tif</IconFileName>
                     </MetaData>
                     <TextSettings>
                         <TextSelection>0,0</TextSelection>
@@ -474,6 +474,16 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
+                        <BinderItem ID="78" Type="Text" Created="2011-11-21 20:41:30 +0100" Modified="2011-11-21 20:41:41 +0100">
+                            <Title>Mikuro</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>39,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
                     </Children>
                 </BinderItem>
                 <BinderItem ID="6" Type="Folder" Created="2011-05-27 20:25:20 +0200" Modified="2011-05-27 20:27:30 +0200">
@@ -481,7 +491,7 @@
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
-                        <IconFileName>Characters.tif</IconFileName>
+                        <IconFileName>Characters (Mask).tif</IconFileName>
                     </MetaData>
                     <TextSettings>
                         <TextSelection>0,0</TextSelection>
@@ -524,7 +534,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                                 <ShowSynopsisImage>Yes</ShowSynopsisImage>
                                 <IndexCardImageFileExtension>gif</IndexCardImageFileExtension>
-                                <IconFileName>Characters.tif</IconFileName>
+                                <IconFileName>Characters (Mask).tif</IconFileName>
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>251,0</TextSelection>
@@ -556,7 +566,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                                 <ShowSynopsisImage>Yes</ShowSynopsisImage>
                                 <IndexCardImageFileExtension>gif</IndexCardImageFileExtension>
-                                <IconFileName>Characters.tif</IconFileName>
+                                <IconFileName>Characters (Mask).tif</IconFileName>
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>299,0</TextSelection>
@@ -585,7 +595,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                                 <ShowSynopsisImage>Yes</ShowSynopsisImage>
                                 <IndexCardImageFileExtension>gif</IndexCardImageFileExtension>
-                                <IconFileName>Character Sheet (Photo).png</IconFileName>
+                                <IconFileName>Characters (Character Sheet).png</IconFileName>
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>14,0</TextSelection>
@@ -598,7 +608,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                                 <ShowSynopsisImage>Yes</ShowSynopsisImage>
                                 <IndexCardImageFileExtension>gif</IndexCardImageFileExtension>
-                                <IconFileName>Characters.tif</IconFileName>
+                                <IconFileName>Characters (Mask).tif</IconFileName>
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>286,0</TextSelection>
@@ -611,7 +621,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                                 <ShowSynopsisImage>Yes</ShowSynopsisImage>
                                 <IndexCardImageFileExtension>gif</IndexCardImageFileExtension>
-                                <IconFileName>Character Sheet (Photo).png</IconFileName>
+                                <IconFileName>Characters (Character Sheet).png</IconFileName>
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>283,0</TextSelection>
@@ -624,7 +634,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                                 <ShowSynopsisImage>Yes</ShowSynopsisImage>
                                 <IndexCardImageFileExtension>gif</IndexCardImageFileExtension>
-                                <IconFileName>Character Sheet (Photo).png</IconFileName>
+                                <IconFileName>Characters (Character Sheet).png</IconFileName>
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>203,0</TextSelection>
@@ -768,7 +778,7 @@
                         <NotesTextSelection>0,0</NotesTextSelection>
                         <ShowSynopsisImage>Yes</ShowSynopsisImage>
                         <IndexCardImageFileExtension>gif</IndexCardImageFileExtension>
-                        <IconFileName>Character Sheet (Photo).png</IconFileName>
+                        <IconFileName>Characters (Character Sheet).png</IconFileName>
                     </MetaData>
                     <TextSettings>
                         <TextSelection>203,0</TextSelection>
@@ -858,12 +868,12 @@
     </StatusSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2011-11-30 20:21:43 +0100" IgnoreDeadline="No">50000</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetDaily="Yes" DeterminedFromDeadline="Yes" WritingDays="1-7">2275</SessionTarget>
-        <PreviousSession Words="2834" Characters="17700" Date="2011-11-20 18:34:47 +0100"></PreviousSession>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="Yes" WritingDays="1-7" CanWriteOnDeadlineDate="No">2275</SessionTarget>
+        <PreviousSession Words="3005" Characters="17972" Date="2011-11-21 23:16:46 +0100"></PreviousSession>
     </ProjectTargets>
     <TemplateFolderID>26</TemplateFolderID>
     <Favorites>
         <BinderID>25</BinderID>
     </Favorites>
-    <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
+    <PrintSettings PaperSize="595.200012,841.799988" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
