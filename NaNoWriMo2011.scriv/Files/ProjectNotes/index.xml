@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ProjectNotes Version="1.0">
     <Note ID="10">
-        <Title>Plot</Title>
+        <Title>Todo</Title>
+        <SelectedTextRange>64,0</SelectedTextRange>
     </Note>
     <Note ID="12">
         <Title>Coucheries</Title>
