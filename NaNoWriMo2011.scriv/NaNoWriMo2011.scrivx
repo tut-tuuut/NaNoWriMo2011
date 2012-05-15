@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Version="1.0" Creator="SCRMAC-2.2-15858">
+<ScrivenerProject Version="1.0" Creator="SCRMAC-2.1-14118">
     <Binder>
         <BinderItem ID="0" Type="DraftFolder" Created="2011-05-27 20:21:43 +0200" Modified="2011-10-09 12:00:23 +0200">
             <Title>NaNoWriMo</Title>
@@ -18,16 +18,6 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="63" Type="Text" Created="2011-11-01 10:01:58 +0100" Modified="2012-05-10 23:14:26 +0200">
-                    <Title>Chimie au clair de lunes</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <NotesTextSelection>0,0</NotesTextSelection>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>277,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
                 <BinderItem ID="64" Type="Text" Created="2011-11-01 17:11:35 +0100" Modified="2012-05-10 22:41:40 +0200">
                     <Title>Uranie O-45</Title>
                     <MetaData>
@@ -35,17 +25,17 @@
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>1413,0</TextSelection>
+                        <TextSelection>1341,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="66" Type="Text" Created="2011-11-03 20:20:27 +0100" Modified="2011-11-27 21:54:32 +0100">
+                <BinderItem ID="66" Type="Text" Created="2011-11-03 20:20:27 +0100" Modified="2012-05-11 22:26:24 +0200">
                     <Title>Crocodiles et chutes d'objets</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>11396,0</TextSelection>
+                        <TextSelection>967,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem ID="67" Type="Text" Created="2011-11-05 15:35:13 +0100" Modified="2011-11-27 21:54:32 +0100">
@@ -62,27 +52,27 @@
                         <KeywordID>5</KeywordID>
                     </Keywords>
                 </BinderItem>
-                <BinderItem ID="68" Type="Text" Created="2011-11-06 15:46:15 +0100" Modified="2011-11-27 21:54:32 +0100">
+                <BinderItem ID="68" Type="Text" Created="2011-11-06 15:46:15 +0100" Modified="2012-05-11 23:36:17 +0200">
                     <Title>Baggaley S.O.S.</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>276,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>28313,0</TextSelection>
+                        <TextSelection>27612,0</TextSelection>
                     </TextSettings>
                     <Keywords>
                         <KeywordID>4</KeywordID>
                     </Keywords>
                 </BinderItem>
-                <BinderItem ID="69" Type="Text" Created="2011-11-10 20:40:33 +0100" Modified="2011-11-27 21:54:32 +0100">
+                <BinderItem ID="69" Type="Text" Created="2011-11-10 20:40:33 +0100" Modified="2012-05-15 23:04:17 +0200">
                     <Title>Bienvenue à bord</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>17028,0</TextSelection>
+                        <TextSelection>190,0</TextSelection>
                     </TextSettings>
                     <Keywords>
                         <KeywordID>9</KeywordID>
@@ -118,7 +108,7 @@
                         <NotesTextSelection>336,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>28539,0</TextSelection>
+                        <TextSelection>16989,0</TextSelection>
                     </TextSettings>
                     <Keywords>
                         <KeywordID>5</KeywordID>
@@ -173,27 +163,27 @@
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>13508,0</TextSelection>
+                        <TextSelection>13236,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="82" Type="Text" Created="2011-11-25 20:25:32 +0100" Modified="2011-11-30 20:07:28 +0100">
+                <BinderItem ID="82" Type="Text" Created="2011-11-25 20:25:32 +0100" Modified="2012-05-11 23:34:45 +0200">
                     <Title>Tout ça pour de la mauvaise poésie </Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>48,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>17209,0</TextSelection>
+                        <TextSelection>1341,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="84" Type="Text" Created="2011-11-26 17:05:46 +0100" Modified="2012-05-10 23:12:59 +0200">
+                <BinderItem ID="84" Type="Text" Created="2011-11-26 17:05:46 +0100" Modified="2012-05-11 23:17:57 +0200">
                     <Title>Retrouvailles fraternelles</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>193,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>11706,0</TextSelection>
+                        <TextSelection>1070,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem ID="85" Type="Text" Created="2011-11-27 17:43:56 +0100" Modified="2011-11-28 23:30:30 +0100">
@@ -223,17 +213,7 @@
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>14930,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem ID="89" Type="Text" Created="2011-11-30 19:31:25 +0100" Modified="2011-11-30 23:39:45 +0100">
-                    <Title>Les pensées d'Hadelheid Van Fitzgerald</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <NotesTextSelection>0,0</NotesTextSelection>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>11107,0</TextSelection>
+                        <TextSelection>14881,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>
@@ -870,6 +850,26 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem ID="63" Type="Text" Created="2011-11-01 10:01:58 +0100" Modified="2012-05-10 23:14:26 +0200">
+                    <Title>Chimie au clair de lunes</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>277,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="89" Type="Text" Created="2011-11-30 19:31:25 +0100" Modified="2011-11-30 23:39:45 +0100">
+                    <Title>Les pensées d'Hadelheid Van Fitzgerald</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>11107,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
         <BinderItem ID="26" Type="Folder" Created="2011-05-29 00:54:48 +0200" Modified="2011-05-29 00:54:59 +0200">
@@ -979,12 +979,12 @@
     </StatusSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2011-11-30 20:21:43 +0100" IgnoreDeadline="No">50000</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="Yes" WritingDays="1-7" CanWriteOnDeadlineDate="No">481</SessionTarget>
-        <PreviousSession Words="1" Characters="11" Date="2012-05-10 22:13:24 +0200"></PreviousSession>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetDaily="No" DeterminedFromDeadline="Yes" WritingDays="1-7">481</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2012-05-15 23:04:44 +0200"></PreviousSession>
     </ProjectTargets>
     <TemplateFolderID>26</TemplateFolderID>
     <Favorites>
         <BinderID>25</BinderID>
     </Favorites>
-    <PrintSettings PaperSize="595.200012,841.799988" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
+    <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
