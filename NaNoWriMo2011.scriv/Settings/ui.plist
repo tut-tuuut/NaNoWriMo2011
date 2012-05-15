@@ -13,7 +13,7 @@
 	<false/>
 	<key>binderSelection</key>
 	<array>
-		<integer>2</integer>
+		<integer>0</integer>
 	</array>
 	<key>binderSplitFrames</key>
 	<array>
@@ -78,7 +78,9 @@
 		<true/>
 	</dict>
 	<key>indexCardHeightRatio</key>
-	<real>6</real>
+	<real>1</real>
+	<key>indexCardsAcross</key>
+	<integer>3</integer>
 	<key>indexCardsUseSmallFont</key>
 	<false/>
 	<key>inspectorGeneralPaneIsCollapsed</key>
@@ -126,6 +128,24 @@
 	<integer>2</integer>
 	<key>mainDocumentEditor.editorGroupsViewMode</key>
 	<integer>2</integer>
+	<key>mainDocumentEditor.hiddenOutlinerColumnIdentifiers</key>
+	<array>
+		<string>createdDate</string>
+		<string>modifiedDate</string>
+		<string>words</string>
+		<string>characters</string>
+		<string>includeInExport</string>
+		<string>pageBreakBefore</string>
+		<string>compileAsIs</string>
+		<string>targetCount</string>
+		<string>targetCountType</string>
+		<string>progress</string>
+		<string>totalWords</string>
+		<string>totalCharacters</string>
+		<string>allKeywords</string>
+		<string>totalTargetCount</string>
+		<string>totalProgress</string>
+	</array>
 	<key>mainDocumentEditor.lockedInPlace</key>
 	<false/>
 	<key>mainDocumentEditor.navigationHistory</key>
@@ -183,18 +203,36 @@
 	<real>1.6817628145217896</real>
 	<key>supportingDocumentEditor.binderDocuments</key>
 	<array>
-		<integer>64</integer>
+		<integer>67</integer>
 	</array>
 	<key>supportingDocumentEditor.currentEditorViewMode</key>
 	<integer>0</integer>
 	<key>supportingDocumentEditor.editorGroupsViewMode</key>
-	<integer>1</integer>
+	<integer>2</integer>
+	<key>supportingDocumentEditor.hiddenOutlinerColumnIdentifiers</key>
+	<array>
+		<string>createdDate</string>
+		<string>modifiedDate</string>
+		<string>words</string>
+		<string>characters</string>
+		<string>includeInExport</string>
+		<string>pageBreakBefore</string>
+		<string>compileAsIs</string>
+		<string>targetCount</string>
+		<string>targetCountType</string>
+		<string>progress</string>
+		<string>totalWords</string>
+		<string>totalCharacters</string>
+		<string>allKeywords</string>
+		<string>totalTargetCount</string>
+		<string>totalProgress</string>
+	</array>
 	<key>supportingDocumentEditor.lockedInPlace</key>
 	<false/>
 	<key>supportingDocumentEditor.navigationHistory</key>
 	<dict>
 		<key>CurrentIndex</key>
-		<integer>976</integer>
+		<integer>991</integer>
 		<key>NavigationHistoryArray</key>
 		<array>
 			<dict>
@@ -8146,12 +8184,132 @@
 				<key>ViewMode</key>
 				<integer>0</integer>
 			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>66</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>67</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>64</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>67</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>68</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>69</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>70</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>64</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>76</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>0</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>2</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>1</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>2</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>0</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>2</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>67</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>0</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>2</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>67</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
 		</array>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 1008.67}, {662.667, 398.667}}</string>
+	<string>{{0, 308}, {662.667, 398.667}}</string>
 	<key>supportingDocumentEditor.selectedRanges</key>
-	<string>{10028, 0}</string>
+	<string>{3866, 0}</string>
 	<key>supportingDocumentEditor.textEditorState</key>
 	<dict>
 		<key>hasMultiplePages</key>
