@@ -7,7 +7,7 @@
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
             <CorkboardAndOutliner>
-                <SelectedSubdocumentIDs>67</SelectedSubdocumentIDs>
+                <SelectedSubdocumentIDs></SelectedSubdocumentIDs>
                 <CorkboardSettings>
                     <FreeformMode>No</FreeformMode>
                     <FreeformCorkboardDocuments>
@@ -33,15 +33,16 @@
                 </CorkboardSettings>
             </CorkboardAndOutliner>
             <Children>
-                <BinderItem ID="62" Type="Text" Created="2011-11-01 00:00:18 +0100" Modified="2012-05-10 23:14:08 +0200">
+                <BinderItem ID="62" Type="Text" Created="2011-11-01 00:00:18 +0100" Modified="2012-05-18 20:01:34 +0200">
                     <Title>Prologue</Title>
                     <MetaData>
+                        <LabelID>0</LabelID>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                         <IgnoresTitlePrefixAndSuffix>Yes</IgnoresTitlePrefixAndSuffix>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>735,0</TextSelection>
+                        <TextSelection>5142,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem ID="64" Type="Text" Created="2011-11-01 17:11:35 +0100" Modified="2012-05-17 20:43:53 +0200">
@@ -53,23 +54,25 @@
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>1630,0</TextSelection>
+                        <TextSelection>1087,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="66" Type="Text" Created="2011-11-03 20:20:27 +0100" Modified="2012-05-11 22:26:24 +0200">
+                <BinderItem ID="66" Type="Text" Created="2011-11-03 20:20:27 +0100" Modified="2012-05-18 20:32:25 +0200">
                     <Title>Crocodiles et chutes d'objets</Title>
                     <MetaData>
+                        <LabelID>0</LabelID>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>680,0</TextSelection>
+                        <TextSelection>3265,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="67" Type="Text" Created="2011-11-05 15:35:13 +0100" Modified="2012-05-18 19:30:08 +0200">
+                <BinderItem ID="67" Type="Text" Created="2011-11-05 15:35:13 +0100" Modified="2012-05-18 19:39:53 +0200">
                     <Title>Descente et décollages</Title>
                     <MetaData>
                         <LabelID>0</LabelID>
+                        <StatusID>1</StatusID>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>79,0</NotesTextSelection>
                     </MetaData>
@@ -81,7 +84,7 @@
                         <KeywordID>5</KeywordID>
                     </Keywords>
                 </BinderItem>
-                <BinderItem ID="68" Type="Text" Created="2011-11-06 15:46:15 +0100" Modified="2012-05-11 23:36:17 +0200">
+                <BinderItem ID="68" Type="Text" Created="2011-11-06 15:46:15 +0100" Modified="2012-05-18 19:40:15 +0200">
                     <Title>Baggaley S.O.S.</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -130,7 +133,7 @@
                         <KeywordID>10</KeywordID>
                     </Keywords>
                 </BinderItem>
-                <BinderItem ID="72" Type="Text" Created="2011-11-13 15:37:48 +0100" Modified="2011-11-27 21:54:32 +0100">
+                <BinderItem ID="72" Type="Text" Created="2011-11-13 15:37:48 +0100" Modified="2012-05-18 19:54:11 +0200">
                     <Title>Direction Askhyl</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -145,7 +148,7 @@
                         <KeywordID>12</KeywordID>
                     </Keywords>
                 </BinderItem>
-                <BinderItem ID="76" Type="Text" Created="2011-11-17 23:09:10 +0100" Modified="2011-11-27 21:54:32 +0100">
+                <BinderItem ID="76" Type="Text" Created="2011-11-17 23:09:10 +0100" Modified="2012-05-18 19:54:11 +0200">
                     <Title>De l'autre côté du miroir</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -326,7 +329,7 @@
                                 <Reference BinderID="35" Destination="[Internal Link]">Ama Farrés</Reference>
                             </References>
                         </BinderItem>
-                        <BinderItem ID="36" Type="Text" Created="2011-05-29 00:42:05 +0200" Modified="2012-05-10 22:52:11 +0200">
+                        <BinderItem ID="36" Type="Text" Created="2011-05-29 00:42:05 +0200" Modified="2012-05-18 19:39:10 +0200">
                             <Title>Frédéric Allington</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -336,7 +339,7 @@
                                 <IconFileName>Characters (Mask).tif</IconFileName>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1148,0</TextSelection>
+                                <TextSelection>24,0</TextSelection>
                             </TextSettings>
                             <References>
                                 <Reference BinderID="22" Destination="[Internal Link]">Scénarios</Reference>
@@ -899,6 +902,16 @@
                         <TextSelection>11107,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem ID="90" Type="Text" Created="2012-05-18 19:35:22 +0200" Modified="2012-05-18 19:35:22 +0200">
+                    <Title>Untitled</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
         <BinderItem ID="26" Type="Folder" Created="2011-05-29 00:54:48 +0200" Modified="2011-05-29 00:54:59 +0200">
@@ -1016,7 +1029,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2011-11-30 20:21:43 +0100" IgnoreDeadline="No">50000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetDaily="No" DeterminedFromDeadline="Yes" WritingDays="1-7">481</SessionTarget>
-        <PreviousSession Words="277" Characters="1609" Date="2012-05-18 19:32:59 +0200"></PreviousSession>
+        <PreviousSession Words="255" Characters="1496" Date="2012-05-18 20:32:47 +0200"></PreviousSession>
     </ProjectTargets>
     <TemplateFolderID>26</TemplateFolderID>
     <Favorites>
