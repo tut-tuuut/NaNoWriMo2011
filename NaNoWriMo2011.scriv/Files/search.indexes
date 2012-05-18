@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SearchIndexes Version="1.0">
     <Documents>
-        <Document ID="53">
-            <Title>Baggaley S.O.S.</Title>
-            <Synopsis>Estelle intègre l’équipage du Garibaldi XII, un croiseur de combat successeur de son homonyme de la guerre (suite à la disparition de son vaisseau d’exploration ?). Quelque temps s’écoule, et un jour on capte un étrange signal de détresse, en plein milieu d’une zone désertique sur la planète rocheuse Baggaley (nommée ainsi en hommage au scientifique Hugo Baggaley qui l’a découverte et analysée). Le signal se révèle être un piège. Un ver des sables géant / un kraken du désert attaque la pinasse envoyée en reconnaissance. Estelle, qui pilote la pinasse, sauve son équipage grâce à des réflexes impressionnants, mais elle est blessée dans l’opération.</Synopsis>
+        <Document ID="39">
+            <Title>Tondeuses à gazon</Title>
+            <Synopsis>Inspiration des hork-bajir de mon enfance.</Synopsis>
         </Document>
         <Document ID="61">
             <Title>Noms de lieux</Title>
@@ -354,7 +354,7 @@ Cette boîte de nuit était totalement pourrie. Toutes les boîtes de nuit étai
 
 ***
 Estelle
-Estelle aperçut, du coin de l'oeil, un crocodile assis les bras croisés dans un coin. Il semblait bouder, au milieu de tous ses piercings… Et ses écailles si sombres étaient tellement sexe ! Il lui sembla qu'elle l'avait déjà vu auparavant. Pendant qu'elle tentait de synchroniser les mouvements de ses hanches avec ceux de ses amis de danse reptilienne, elle tenta de remettre ses souvenirs en place. Juste après avoir enlacé son premier cavalier pour l'embrasser, elle se souvint de son lieu de rencontre avec le crocodile piercé : c'était dans cet ascenseur… Mais à l'époque il ressemblait beaucoup plus à un humain. Étrange, comme les gens changent… Elle expliqua, en criant par dessus le vacarme ambiant, qu'elle allait chercher son pote à piercings qui boudait là, dans son coin. Se dégageant des mains posées sur ses hanches, sur ses fesses et sur ses seins, elle entama sa progression vers le coin où le mystérieux piercé semblait attendre, malheureux de sa solitude, que quelqu'un s'intéresse à lui. Elle se lécha les babines en pensant à la façon dont elle allait lui montrer comment elle s'intéresserait à lui, et dans quel ordre elle procéderait. La progression dans l'espace se révélait cependant difficile : il semblait que le responsable de l'établissement avait décidé, outre d'inviter uniquement des reptiles à sa fête, de remplacer le parquet standard des stations orbitales par une sorte de matière étrange qui collait aux jambes comme de la cancoillotte quand on arrêtait de danser.
+Du coin de l’œil, j’aperçus un crocodile assis les bras croisés dans un coin. Il semblait bouder, au milieu de tous ses piercings… Et ses écailles si sombres étaient tellement sexe ! Je croyais l’avoir déjà vu auparavant. Je tentai de le replacer tout en continuant à danser. J’enlaçai mon premier cavalier pour l’embrasser, et je me souvins où j’avais rencontré le crocodile piercé : c'était dans cet ascenseur… Mais à l'époque il ressemblait beaucoup plus à un humain. Étrange, comme les gens changent… J’expliquai, plus fort que le vacarme ambiant, que j’allais chercher mon pote à piercings qui boudait là, dans son coin. Me dégageant des mains posées sur mon corps, j’entamai ma progression vers le coin où le mystérieux piercé semblait attendre, malheureux de sa solitude, que quelqu'un s'intéresse à lui. Je me léchai les babines. J’allais lui montrer comment je m’intéresserais à lui, et dans quel ordre je procéderais. La progression dans l'espace se révélait cependant difficile : il semblait que le responsable de l'établissement avait décidé, outre d'inviter uniquement des reptiles à sa fête, de remplacer le parquet standard des stations orbitales par une sorte de matière étrange qui collait aux jambes comme de la cancoillotte.
 
 ***
 
@@ -1312,19 +1312,19 @@ Bouts de scénario associés :</Text>
             <Title>Races extraterrestres</Title>
             <Synopsis>C’est pas marrant s’il n’y a pas d’exotisme.</Synopsis>
         </Document>
+        <Document ID="46">
+            <Title>Plan</Title>
+        </Document>
+        <Document ID="53">
+            <Title>Baggaley S.O.S.</Title>
+            <Synopsis>Estelle intègre l’équipage du Garibaldi XII, un croiseur de combat successeur de son homonyme de la guerre (suite à la disparition de son vaisseau d’exploration ?). Quelque temps s’écoule, et un jour on capte un étrange signal de détresse, en plein milieu d’une zone désertique sur la planète rocheuse Baggaley (nommée ainsi en hommage au scientifique Hugo Baggaley qui l’a découverte et analysée). Le signal se révèle être un piège. Un ver des sables géant / un kraken du désert attaque la pinasse envoyée en reconnaissance. Estelle, qui pilote la pinasse, sauve son équipage grâce à des réflexes impressionnants, mais elle est blessée dans l’opération.</Synopsis>
+        </Document>
         <Document ID="60">
             <Title>Noms de vaisseaux</Title>
             <Text>Le Garibaldi est un vaisseau de transport de marchandises aussi bien armé et équipé qu’un vaisseau militaire.
 Le Fleur Bleue est le vaisseau de Bathilda. C’est assez rigolo parce que, vu le caractère de chiotte de son capitaine et les activités tout à fait illégales auxquelles il contribue, ce vaisseau porte très mal son nom (si ce n’est qu’il est effectivement peint en bleu ciel avec une fleur bleu foncé sur la coque tribord).
 Les vaisseaux commerciaux ont des noms plutôt poétiques : la firme Vivaldi possède le Quatre saisons accompagné du Feuille d’automne, du Flocon de neige, du Fleur de Cerisier et du Rayon de soleil. Ils sont escortés par le Tempête, un croiseur de combat racheté à la Flotte Impériale après la guerre, assez vieux mais toujours efficace, pour dissuader les pirates.
 Côté militaire, on tape plutôt dans les noms évocateurs comme le Zeus, le Héra, le Courageux, le Wolverine, le Moreau, le Alistair Dupont, et des noms de vents : le Sirocco, le Mistral, le Tramontane, etc.</Text>
-        </Document>
-        <Document ID="39">
-            <Title>Tondeuses à gazon</Title>
-            <Synopsis>Inspiration des hork-bajir de mon enfance.</Synopsis>
-        </Document>
-        <Document ID="46">
-            <Title>Plan</Title>
         </Document>
     </Documents>
 </SearchIndexes>
