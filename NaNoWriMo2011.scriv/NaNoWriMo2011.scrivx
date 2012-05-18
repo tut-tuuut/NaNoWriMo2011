@@ -41,10 +41,10 @@
                         <IgnoresTitlePrefixAndSuffix>Yes</IgnoresTitlePrefixAndSuffix>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>0,0</TextSelection>
+                        <TextSelection>735,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="64" Type="Text" Created="2011-11-01 17:11:35 +0100" Modified="2012-05-16 00:18:45 +0200">
+                <BinderItem ID="64" Type="Text" Created="2011-11-01 17:11:35 +0100" Modified="2012-05-17 20:43:53 +0200">
                     <Title>Uranie O-45</Title>
                     <MetaData>
                         <LabelID>0</LabelID>
@@ -53,7 +53,7 @@
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>155,0</TextSelection>
+                        <TextSelection>1630,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem ID="66" Type="Text" Created="2011-11-03 20:20:27 +0100" Modified="2012-05-11 22:26:24 +0200">
@@ -66,7 +66,7 @@
                         <TextSelection>680,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="67" Type="Text" Created="2011-11-05 15:35:13 +0100" Modified="2012-05-16 00:29:23 +0200">
+                <BinderItem ID="67" Type="Text" Created="2011-11-05 15:35:13 +0100" Modified="2012-05-18 19:30:08 +0200">
                     <Title>Descente et décollages</Title>
                     <MetaData>
                         <LabelID>0</LabelID>
@@ -74,7 +74,7 @@
                         <NotesTextSelection>79,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>3866,0</TextSelection>
+                        <TextSelection>21507,0</TextSelection>
                     </TextSettings>
                     <Keywords>
                         <KeywordID>1</KeywordID>
@@ -88,7 +88,7 @@
                         <NotesTextSelection>276,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>27612,0</TextSelection>
+                        <TextSelection>26868,0</TextSelection>
                     </TextSettings>
                     <Keywords>
                         <KeywordID>4</KeywordID>
@@ -182,7 +182,7 @@
                         <NotesTextSelection>0,37</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>20715,0</TextSelection>
+                        <TextSelection>20366,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem ID="81" Type="Text" Created="2011-11-24 20:48:11 +0100" Modified="2011-11-30 20:07:14 +0100">
@@ -192,7 +192,7 @@
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>13236,0</TextSelection>
+                        <TextSelection>12550,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem ID="82" Type="Text" Created="2011-11-25 20:25:32 +0100" Modified="2012-05-11 23:34:45 +0200">
@@ -202,7 +202,7 @@
                         <NotesTextSelection>48,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>1341,0</TextSelection>
+                        <TextSelection>954,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem ID="84" Type="Text" Created="2011-11-26 17:05:46 +0100" Modified="2012-05-11 23:17:57 +0200">
@@ -1016,7 +1016,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2011-11-30 20:21:43 +0100" IgnoreDeadline="No">50000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetDaily="No" DeterminedFromDeadline="Yes" WritingDays="1-7">481</SessionTarget>
-        <PreviousSession Words="-71" Characters="-423" Date="2012-05-16 00:29:38 +0200"></PreviousSession>
+        <PreviousSession Words="277" Characters="1609" Date="2012-05-18 19:32:59 +0200"></PreviousSession>
     </ProjectTargets>
     <TemplateFolderID>26</TemplateFolderID>
     <Favorites>
