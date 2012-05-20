@@ -7,7 +7,7 @@
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
             <CorkboardAndOutliner>
-                <SelectedSubdocumentIDs></SelectedSubdocumentIDs>
+                <SelectedSubdocumentIDs>66</SelectedSubdocumentIDs>
                 <CorkboardSettings>
                     <FreeformMode>No</FreeformMode>
                     <FreeformCorkboardDocuments>
@@ -57,15 +57,15 @@
                         <TextSelection>1087,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="66" Type="Text" Created="2011-11-03 20:20:27 +0100" Modified="2012-05-18 21:27:03 +0200">
-                    <Title>Crocodiles et chutes d'objets</Title>
+                <BinderItem ID="66" Type="Text" Created="2011-11-03 20:20:27 +0100" Modified="2012-05-20 21:45:21 +0200">
+                    <Title>Crocodiles acidulés</Title>
                     <MetaData>
                         <LabelID>0</LabelID>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>4990,0</TextSelection>
+                        <TextSelection>8317,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem ID="67" Type="Text" Created="2011-11-05 15:35:13 +0100" Modified="2012-05-18 19:39:53 +0200">
@@ -246,6 +246,28 @@
                     </MetaData>
                     <TextSettings>
                         <TextSelection>14881,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="91" Type="Folder" Created="2012-05-20 21:33:23 +0200" Modified="2012-05-20 21:33:25 +0200">
+            <Title>Frigo</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <NotesTextSelection>0,0</NotesTextSelection>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <Children>
+                <BinderItem ID="92" Type="Text" Created="2012-05-20 21:43:39 +0200" Modified="2012-05-20 21:43:54 +0200">
+                    <Title>Dialogue enquêteur / témoin</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>954,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>
@@ -1029,7 +1051,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2011-11-30 20:21:43 +0100" IgnoreDeadline="No">50000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetDaily="No" DeterminedFromDeadline="Yes" WritingDays="1-7">481</SessionTarget>
-        <PreviousSession Words="209" Characters="1237" Date="2012-05-18 21:27:04 +0200"></PreviousSession>
+        <PreviousSession Words="-464" Characters="-2747" Date="2012-05-20 21:45:21 +0200"></PreviousSession>
     </ProjectTargets>
     <TemplateFolderID>26</TemplateFolderID>
     <Favorites>
