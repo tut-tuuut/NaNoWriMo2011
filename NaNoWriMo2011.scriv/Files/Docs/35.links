@@ -7,7 +7,7 @@
         </TextLinks>
     </ScrivenerLinks>
     <CommentsAndFootnotes>
-        <Comment IsFootnote="No" Collapsed="No">
+        <Comment IsFootnote="No" Collapsed="Yes">
             <Range>1676,205</Range>
             <Color>0.984 0.855 0.733</Color>
             <RTF><![CDATA[{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf360

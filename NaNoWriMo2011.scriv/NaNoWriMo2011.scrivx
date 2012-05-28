@@ -7,7 +7,7 @@
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
             <CorkboardAndOutliner>
-                <SelectedSubdocumentIDs>67</SelectedSubdocumentIDs>
+                <SelectedSubdocumentIDs>77</SelectedSubdocumentIDs>
                 <CorkboardSettings>
                     <FreeformMode>No</FreeformMode>
                     <FreeformCorkboardDocuments>
@@ -32,10 +32,11 @@
                 </CorkboardSettings>
             </CorkboardAndOutliner>
             <Children>
-                <BinderItem ID="62" Type="Text" Created="2011-11-01 00:00:18 +0100" Modified="2012-05-20 21:50:04 +0200">
+                <BinderItem ID="62" Type="Text" Created="2011-11-01 00:00:18 +0100" Modified="2012-05-28 19:33:28 +0200">
                     <Title>Prologue</Title>
                     <MetaData>
                         <LabelID>0</LabelID>
+                        <StatusID>3</StatusID>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                         <IgnoresTitlePrefixAndSuffix>Yes</IgnoresTitlePrefixAndSuffix>
@@ -44,22 +45,23 @@
                         <TextSelection>6232,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="64" Type="Text" Created="2011-11-01 17:11:35 +0100" Modified="2012-05-17 20:43:53 +0200">
+                <BinderItem ID="64" Type="Text" Created="2011-11-01 17:11:35 +0100" Modified="2012-05-28 20:11:55 +0200">
                     <Title>Uranie O-45</Title>
                     <MetaData>
                         <LabelID>0</LabelID>
-                        <StatusID>2</StatusID>
+                        <StatusID>3</StatusID>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>1087,0</TextSelection>
+                        <TextSelection>9419,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="66" Type="Text" Created="2011-11-03 20:20:27 +0100" Modified="2012-05-20 22:32:59 +0200">
+                <BinderItem ID="66" Type="Text" Created="2011-11-03 20:20:27 +0100" Modified="2012-05-28 19:33:20 +0200">
                     <Title>Crocodiles acidulés</Title>
                     <MetaData>
                         <LabelID>0</LabelID>
+                        <StatusID>3</StatusID>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
@@ -67,11 +69,11 @@
                         <TextSelection>1759,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="67" Type="Text" Created="2011-11-05 15:35:13 +0100" Modified="2012-05-27 18:55:24 +0200">
+                <BinderItem ID="67" Type="Text" Created="2011-11-05 15:35:13 +0100" Modified="2012-05-28 19:33:09 +0200">
                     <Title>Descente aux enquêtes</Title>
                     <MetaData>
                         <LabelID>0</LabelID>
-                        <StatusID>1</StatusID>
+                        <StatusID>3</StatusID>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>87,0</NotesTextSelection>
                     </MetaData>
@@ -83,27 +85,30 @@
                         <KeywordID>5</KeywordID>
                     </Keywords>
                 </BinderItem>
-                <BinderItem ID="68" Type="Text" Created="2011-11-06 15:46:15 +0100" Modified="2012-05-28 19:19:05 +0200">
+                <BinderItem ID="68" Type="Text" Created="2011-11-06 15:46:15 +0100" Modified="2012-05-28 20:13:28 +0200">
                     <Title>Baggaley S.O.S.</Title>
                     <MetaData>
+                        <LabelID>0</LabelID>
+                        <StatusID>3</StatusID>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>126,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>26106,0</TextSelection>
+                        <TextSelection>23764,0</TextSelection>
                     </TextSettings>
                     <Keywords>
                         <KeywordID>4</KeywordID>
                     </Keywords>
                 </BinderItem>
-                <BinderItem ID="69" Type="Text" Created="2011-11-10 20:40:33 +0100" Modified="2012-05-15 23:04:17 +0200">
+                <BinderItem ID="69" Type="Text" Created="2011-11-10 20:40:33 +0100" Modified="2012-05-28 21:07:28 +0200">
                     <Title>Bienvenue à bord</Title>
                     <MetaData>
+                        <StatusID>2</StatusID>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>905,0</TextSelection>
+                        <TextSelection>16167,0</TextSelection>
                     </TextSettings>
                     <Keywords>
                         <KeywordID>9</KeywordID>
@@ -112,14 +117,15 @@
                         <KeywordID>12</KeywordID>
                     </Keywords>
                 </BinderItem>
-                <BinderItem ID="70" Type="Text" Created="2011-11-11 22:04:10 +0100" Modified="2011-11-27 21:54:32 +0100">
-                    <Title>Retour à Sido</Title>
+                <BinderItem ID="70" Type="Text" Created="2011-11-11 22:04:10 +0100" Modified="2012-05-28 21:31:40 +0200">
+                    <Title>Visite de courtoisie</Title>
                     <MetaData>
+                        <StatusID>1</StatusID>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>29384,0</TextSelection>
+                        <TextSelection>29116,0</TextSelection>
                     </TextSettings>
                     <Keywords>
                         <KeywordID>1</KeywordID>
@@ -132,9 +138,10 @@
                         <KeywordID>10</KeywordID>
                     </Keywords>
                 </BinderItem>
-                <BinderItem ID="72" Type="Text" Created="2011-11-13 15:37:48 +0100" Modified="2012-05-18 19:54:11 +0200">
+                <BinderItem ID="72" Type="Text" Created="2011-11-13 15:37:48 +0100" Modified="2012-05-28 19:33:54 +0200">
                     <Title>Direction Askhyl</Title>
                     <MetaData>
+                        <StatusID>1</StatusID>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>336,0</NotesTextSelection>
                     </MetaData>
@@ -147,19 +154,21 @@
                         <KeywordID>12</KeywordID>
                     </Keywords>
                 </BinderItem>
-                <BinderItem ID="76" Type="Text" Created="2011-11-17 23:09:10 +0100" Modified="2012-05-20 22:33:16 +0200">
+                <BinderItem ID="76" Type="Text" Created="2011-11-17 23:09:10 +0100" Modified="2012-05-28 19:33:54 +0200">
                     <Title>De l’autre côté du miroir</Title>
                     <MetaData>
+                        <StatusID>1</StatusID>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>168,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>20599,0</TextSelection>
+                        <TextSelection>19456,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="79" Type="Text" Created="2011-11-22 21:34:42 +0100" Modified="2012-05-20 22:56:03 +0200">
+                <BinderItem ID="79" Type="Text" Created="2011-11-22 21:34:42 +0100" Modified="2012-05-28 19:33:54 +0200">
                     <Title>Réunion de crise</Title>
                     <MetaData>
+                        <StatusID>1</StatusID>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
@@ -167,39 +176,43 @@
                         <TextSelection>5696,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="80" Type="Text" Created="2011-11-22 23:02:40 +0100" Modified="2012-05-20 22:57:59 +0200">
+                <BinderItem ID="80" Type="Text" Created="2011-11-22 23:02:40 +0100" Modified="2012-05-28 20:55:20 +0200">
                     <Title>Retrouvailles interstellaires</Title>
                     <MetaData>
+                        <StatusID>1</StatusID>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>77,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>3589,0</TextSelection>
+                        <TextSelection>46,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="77" Type="Text" Created="2011-11-20 17:31:49 +0100" Modified="2012-05-20 22:58:59 +0200">
+                <BinderItem ID="77" Type="Text" Created="2011-11-20 17:31:49 +0100" Modified="2012-05-28 20:53:57 +0200">
                     <Title>L’âge du capitaine</Title>
                     <MetaData>
+                        <StatusID>1</StatusID>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>220,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>13475,0</TextSelection>
+                        <TextSelection>18149,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="82" Type="Text" Created="2011-11-25 20:25:32 +0100" Modified="2012-05-11 23:34:45 +0200">
+                <BinderItem ID="82" Type="Text" Created="2011-11-25 20:25:32 +0100" Modified="2012-05-28 19:33:54 +0200">
                     <Title>Tout ça pour de la mauvaise poésie </Title>
                     <MetaData>
+                        <StatusID>1</StatusID>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>48,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>954,0</TextSelection>
+                        <TextSelection>1211,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="84" Type="Text" Created="2011-11-26 17:05:46 +0100" Modified="2012-05-20 21:47:17 +0200">
+                <BinderItem ID="84" Type="Text" Created="2011-11-26 17:05:46 +0100" Modified="2012-05-28 19:33:54 +0200">
                     <Title>Retrouvailles fraternelles</Title>
                     <MetaData>
+                        <StatusID>1</StatusID>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>193,0</NotesTextSelection>
                     </MetaData>
@@ -207,19 +220,21 @@
                         <TextSelection>1139,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="85" Type="Text" Created="2011-11-27 17:43:56 +0100" Modified="2011-11-28 23:30:30 +0100">
+                <BinderItem ID="85" Type="Text" Created="2011-11-27 17:43:56 +0100" Modified="2012-05-28 19:33:54 +0200">
                     <Title>Bons baisers d'Ombre-marbre</Title>
                     <MetaData>
+                        <StatusID>1</StatusID>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>15473,0</TextSelection>
+                        <TextSelection>14595,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="87" Type="Text" Created="2011-11-29 19:55:55 +0100" Modified="2012-05-10 23:05:05 +0200">
+                <BinderItem ID="87" Type="Text" Created="2011-11-29 19:55:55 +0100" Modified="2012-05-28 19:33:54 +0200">
                     <Title>Entretien privé</Title>
                     <MetaData>
+                        <StatusID>1</StatusID>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
@@ -227,9 +242,10 @@
                         <TextSelection>4123,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="86" Type="Text" Created="2011-11-28 23:30:46 +0100" Modified="2011-11-29 22:47:51 +0100">
+                <BinderItem ID="86" Type="Text" Created="2011-11-28 23:30:46 +0100" Modified="2012-05-28 19:33:54 +0200">
                     <Title>Le cabaret parallèle du pasteur Seahorse</Title>
                     <MetaData>
+                        <StatusID>1</StatusID>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
@@ -248,6 +264,9 @@
             <TextSettings>
                 <TextSelection>0,0</TextSelection>
             </TextSettings>
+            <CorkboardAndOutliner>
+                <SelectedSubdocumentIDs>103</SelectedSubdocumentIDs>
+            </CorkboardAndOutliner>
             <Children>
                 <BinderItem ID="81" Type="Text" Created="2011-11-24 20:48:11 +0100" Modified="2011-11-30 20:07:14 +0100">
                     <Title>Baffes et pardon</Title>
@@ -256,7 +275,7 @@
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>12550,0</TextSelection>
+                        <TextSelection>12829,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem ID="63" Type="Text" Created="2011-11-01 10:01:58 +0100" Modified="2012-05-10 23:14:26 +0200">
@@ -309,6 +328,26 @@
                         <TextSelection>417,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem ID="96" Type="Text" Created="2012-05-28 20:04:06 +0200" Modified="2012-05-28 20:04:22 +0200">
+                    <Title>Duel de regards Bathilda / Frédéric</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>731,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="103" Type="Text" Created="2012-05-28 21:30:18 +0200" Modified="2012-05-28 21:30:37 +0200">
+                    <Title>Faïza envoie un gros bousin à Noah</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>652,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
         <BinderItem ID="1" Type="ResearchFolder" Created="2011-05-27 20:21:43 +0200" Modified="2011-05-27 20:25:45 +0200">
@@ -328,51 +367,128 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <CorkboardAndOutliner>
-                        <SelectedSubdocumentIDs>27</SelectedSubdocumentIDs>
+                        <SelectedSubdocumentIDs></SelectedSubdocumentIDs>
                         <CorkboardSettings>
                             <FreeformMode>No</FreeformMode>
                             <FreeformCorkboardDocuments>
-                                <IndexCardBinderID Position="1.20667,0.1" TimeStamp="2011-06-02 23:17:31 +0200">35</IndexCardBinderID>
-                                <IndexCardBinderID Position="2.15667,0.133333" TimeStamp="2011-06-02 23:17:31 +0200">36</IndexCardBinderID>
-                                <IndexCardBinderID Position="0.143333,0.05" TimeStamp="2011-06-02 23:17:31 +0200">27</IndexCardBinderID>
                                 <IndexCardBinderID Position="0.679487,1.53846" TimeStamp="2011-06-02 23:17:53 +0200">37</IndexCardBinderID>
                             </FreeformCorkboardDocuments>
                         </CorkboardSettings>
                     </CorkboardAndOutliner>
                     <Children>
-                        <BinderItem ID="27" Type="Text" Created="2011-05-29 00:42:05 +0200" Modified="2012-05-10 22:45:57 +0200">
-                            <Title>Bathilda Hammonds</Title>
+                        <BinderItem ID="100" Type="Folder" Created="2012-05-28 21:00:28 +0200" Modified="2012-05-28 21:00:34 +0200">
+                            <Title>Fleur Bleue</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
-                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
-                                <IndexCardImageFileExtension>gif</IndexCardImageFileExtension>
-                                <IconFileName>Characters (Photo).png</IconFileName>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>2119,0</TextSelection>
+                                <TextSelection>0,0</TextSelection>
                             </TextSettings>
-                            <References>
-                                <Reference BinderID="35" Destination="[Internal Link]">Ama Farrés</Reference>
-                                <Reference BinderID="22" Destination="[Internal Link]">Scénarios</Reference>
-                                <Reference BinderID="56" Destination="[Internal Link]">Projet X-men</Reference>
-                            </References>
-                        </BinderItem>
-                        <BinderItem ID="35" Type="Text" Created="2011-05-29 00:42:05 +0200" Modified="2012-05-10 22:38:55 +0200">
-                            <Title>Estelle Farrés</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
-                                <IndexCardImageFileExtension>gif</IndexCardImageFileExtension>
-                                <IconFileName>Characters (Mask).tif</IconFileName>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>2106,0</TextSelection>
-                            </TextSettings>
-                            <References>
-                                <Reference BinderID="41" Destination="[Internal Link]">Noah Farrés</Reference>
-                            </References>
+                            <Children>
+                                <BinderItem ID="27" Type="Text" Created="2011-05-29 00:42:05 +0200" Modified="2012-05-28 20:10:55 +0200">
+                                    <Title>Bathilda Hammonds</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                        <IndexCardImageFileExtension>gif</IndexCardImageFileExtension>
+                                        <IconFileName>Characters (Photo).png</IconFileName>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>609,0</TextSelection>
+                                    </TextSettings>
+                                    <References>
+                                        <Reference BinderID="35" Destination="[Internal Link]">Ama Farrés</Reference>
+                                        <Reference BinderID="22" Destination="[Internal Link]">Scénarios</Reference>
+                                        <Reference BinderID="56" Destination="[Internal Link]">Projet X-men</Reference>
+                                    </References>
+                                </BinderItem>
+                                <BinderItem ID="35" Type="Text" Created="2011-05-29 00:42:05 +0200" Modified="2012-05-28 20:09:58 +0200">
+                                    <Title>Estelle Farrés</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                        <IndexCardImageFileExtension>gif</IndexCardImageFileExtension>
+                                        <IconFileName>Characters (Mask).tif</IconFileName>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>1259,0</TextSelection>
+                                    </TextSettings>
+                                    <References>
+                                        <Reference BinderID="41" Destination="[Internal Link]">Noah Farrés</Reference>
+                                    </References>
+                                </BinderItem>
+                                <BinderItem ID="36" Type="Text" Created="2011-05-29 00:42:05 +0200" Modified="2012-05-28 20:08:11 +0200">
+                                    <Title>Sable</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                        <IndexCardImageFileExtension>gif</IndexCardImageFileExtension>
+                                        <IconFileName>Characters (Mask).tif</IconFileName>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>24,0</TextSelection>
+                                    </TextSettings>
+                                    <References>
+                                        <Reference BinderID="22" Destination="[Internal Link]">Scénarios</Reference>
+                                    </References>
+                                </BinderItem>
+                                <BinderItem ID="58" Type="Text" Created="2011-05-29 00:42:05 +0200" Modified="2012-05-10 22:17:49 +0200">
+                                    <Title>Jérémie Van Fitzgerald</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                        <IndexCardImageFileExtension>gif</IndexCardImageFileExtension>
+                                        <IconFileName>Characters (Mask).tif</IconFileName>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>513,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="71" Type="Text" Created="2011-05-29 00:42:05 +0200" Modified="2012-05-10 22:56:17 +0200">
+                                    <Title>Arianne X</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                        <IndexCardImageFileExtension>gif</IndexCardImageFileExtension>
+                                        <IconFileName>Characters (Character Sheet).png</IconFileName>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>351,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="75" Type="Text" Created="2011-05-29 00:42:05 +0200" Modified="2011-11-16 22:09:45 +0100">
+                                    <Title>Le médecin avec un bazooka</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                        <IndexCardImageFileExtension>gif</IndexCardImageFileExtension>
+                                        <IconFileName>Characters (Character Sheet).png</IconFileName>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>203,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="97" Type="Text" Created="2011-05-29 00:42:05 +0200" Modified="2012-05-28 20:09:08 +0200">
+                                    <Title>Photon</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                        <IndexCardImageFileExtension>gif</IndexCardImageFileExtension>
+                                        <IconFileName>Characters (Character Sheet).png</IconFileName>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>64,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
                         </BinderItem>
                         <BinderItem ID="41" Type="Text" Created="2011-05-29 00:42:05 +0200" Modified="2012-05-10 22:46:51 +0200">
                             <Title>Noah Farrés</Title>
@@ -384,26 +500,10 @@
                                 <IconFileName>Characters (Photo).png</IconFileName>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1938,0</TextSelection>
+                                <TextSelection>2015,0</TextSelection>
                             </TextSettings>
                             <References>
                                 <Reference BinderID="35" Destination="[Internal Link]">Ama Farrés</Reference>
-                            </References>
-                        </BinderItem>
-                        <BinderItem ID="36" Type="Text" Created="2011-05-29 00:42:05 +0200" Modified="2012-05-18 19:39:10 +0200">
-                            <Title>Frédéric Allington</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
-                                <IndexCardImageFileExtension>gif</IndexCardImageFileExtension>
-                                <IconFileName>Characters (Mask).tif</IconFileName>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>24,0</TextSelection>
-                            </TextSettings>
-                            <References>
-                                <Reference BinderID="22" Destination="[Internal Link]">Scénarios</Reference>
                             </References>
                         </BinderItem>
                         <BinderItem ID="37" Type="Text" Created="2011-05-29 00:42:05 +0200" Modified="2011-10-25 22:40:14 +0200">
@@ -419,7 +519,7 @@
                                 <TextSelection>694,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="57" Type="Text" Created="2011-05-29 00:42:05 +0200" Modified="2012-05-10 22:29:17 +0200">
+                        <BinderItem ID="57" Type="Text" Created="2011-05-29 00:42:05 +0200" Modified="2012-05-28 21:02:17 +0200">
                             <Title>Faïza Nassarib</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -429,24 +529,11 @@
                                 <IconFileName>Characters (Character Sheet).png</IconFileName>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1323,0</TextSelection>
+                                <TextSelection>1424,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="58" Type="Text" Created="2011-05-29 00:42:05 +0200" Modified="2012-05-10 22:17:49 +0200">
-                            <Title>Jérémie Van Fitzgerald</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
-                                <IndexCardImageFileExtension>gif</IndexCardImageFileExtension>
-                                <IconFileName>Characters (Mask).tif</IconFileName>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>513,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="71" Type="Text" Created="2011-05-29 00:42:05 +0200" Modified="2012-05-10 22:56:17 +0200">
-                            <Title>Arianne X</Title>
+                        <BinderItem ID="102" Type="Text" Created="2011-05-29 00:42:05 +0200" Modified="2012-05-28 21:05:17 +0200">
+                            <Title>Yannick Van Fitzgerald</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
@@ -455,20 +542,7 @@
                                 <IconFileName>Characters (Character Sheet).png</IconFileName>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>351,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="75" Type="Text" Created="2011-05-29 00:42:05 +0200" Modified="2011-11-16 22:09:45 +0100">
-                            <Title>Le médecin avec un bazooka</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
-                                <IndexCardImageFileExtension>gif</IndexCardImageFileExtension>
-                                <IconFileName>Characters (Character Sheet).png</IconFileName>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>203,0</TextSelection>
+                                <TextSelection>128,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -607,17 +681,55 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem ID="4" Type="Folder" Created="2011-05-27 20:22:07 +0200" Modified="2011-10-07 20:22:20 +0200">
+                <BinderItem ID="4" Type="Folder" Created="2011-05-27 20:22:07 +0200" Modified="2012-05-28 20:51:15 +0200">
                     <Title>Lieux</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
-                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <NotesTextSelection>36,0</NotesTextSelection>
                         <IconFileName>Locations (Map).tif</IconFileName>
                     </MetaData>
                     <TextSettings>
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
+                    <CorkboardAndOutliner>
+                        <SelectedSubdocumentIDs></SelectedSubdocumentIDs>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                            <FreeformCorkboardDocuments>
+                                <IndexCardBinderID Position="0.166667,2.85897" TimeStamp="2012-05-28 20:55:28 +0200">83</IndexCardBinderID>
+                                <IndexCardBinderID Position="4.55128,0.128205" TimeStamp="2012-05-28 20:50:33 +0200">74</IndexCardBinderID>
+                                <IndexCardBinderID Position="0.224359,0.814103" TimeStamp="2012-05-28 20:50:03 +0200">20</IndexCardBinderID>
+                                <IndexCardBinderID Position="0.121795,0.592308" TimeStamp="2012-05-28 20:49:13 +0200">44</IndexCardBinderID>
+                                <IndexCardBinderID Position="0.333333,2.57051" TimeStamp="2012-05-28 20:49:59 +0200">18</IndexCardBinderID>
+                                <IndexCardBinderID Position="2.33333,1.48077" TimeStamp="2012-05-28 20:55:27 +0200">54</IndexCardBinderID>
+                                <IndexCardBinderID Position="4.11538,2.10897" TimeStamp="2012-05-28 20:49:45 +0200">73</IndexCardBinderID>
+                                <IndexCardBinderID Position="0.557692,3.13462" TimeStamp="2012-05-28 20:49:28 +0200">78</IndexCardBinderID>
+                                <IndexCardBinderID Position="1.78205,3.37821" TimeStamp="2012-05-28 20:49:55 +0200">19</IndexCardBinderID>
+                                <IndexCardBinderID Position="3.19872,0.660256" TimeStamp="2012-05-28 20:50:35 +0200">99</IndexCardBinderID>
+                            </FreeformCorkboardDocuments>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
                     <Children>
+                        <BinderItem ID="74" Type="Text" Created="2011-11-13 15:38:21 +0100" Modified="2012-05-28 20:48:48 +0200">
+                            <Title>Sido</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="44" Type="Text" Created="2011-06-10 21:57:18 +0200" Modified="2011-06-10 22:10:50 +0200">
+                            <Title>Vieille Terre</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1553,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
                         <BinderItem ID="20" Type="Text" Created="2011-05-27 21:24:43 +0200" Modified="2011-05-27 21:25:24 +0200">
                             <Title>Mars</Title>
                             <MetaData>
@@ -631,8 +743,8 @@
                                 <Reference BinderID="21" Destination="[Internal Link]">Saut spatial</Reference>
                             </References>
                         </BinderItem>
-                        <BinderItem ID="18" Type="Text" Created="2011-05-27 21:22:10 +0200" Modified="2011-05-27 21:22:52 +0200">
-                            <Title>Nouvelle Terre</Title>
+                        <BinderItem ID="99" Type="Text" Created="2012-05-28 20:50:16 +0200" Modified="2012-05-28 20:50:20 +0200">
+                            <Title>Baggaley</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
@@ -641,28 +753,8 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="19" Type="Text" Created="2011-05-27 21:23:14 +0200" Modified="2011-05-29 00:30:41 +0200">
-                            <Title>Vénus-like</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>1342,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="44" Type="Text" Created="2011-06-10 21:57:18 +0200" Modified="2011-06-10 22:10:50 +0200">
-                            <Title>Vieille Terre</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>1553,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="54" Type="Text" Created="2011-10-07 20:22:22 +0200" Modified="2011-10-07 20:31:27 +0200">
-                            <Title>Stations spatiales</Title>
+                        <BinderItem ID="54" Type="Text" Created="2011-10-07 20:22:22 +0200" Modified="2012-05-28 20:49:07 +0200">
+                            <Title>Uranie O-45</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
@@ -681,8 +773,18 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="74" Type="Text" Created="2011-11-13 15:38:21 +0100" Modified="2011-11-13 15:38:23 +0100">
-                            <Title>Sido</Title>
+                        <BinderItem ID="18" Type="Text" Created="2011-05-27 21:22:10 +0200" Modified="2012-05-28 20:48:22 +0200">
+                            <Title>Nouvelle Terre</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="83" Type="Text" Created="2011-11-25 21:03:44 +0100" Modified="2012-05-28 20:55:51 +0200">
+                            <Title>Ludéalis</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
@@ -701,14 +803,14 @@
                                 <TextSelection>39,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="83" Type="Text" Created="2011-11-25 21:03:44 +0100" Modified="2011-11-25 21:03:46 +0100">
-                            <Title>Ludéalis</Title>
+                        <BinderItem ID="19" Type="Text" Created="2011-05-27 21:23:14 +0200" Modified="2011-05-29 00:30:41 +0200">
+                            <Title>Vénus-like</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,0</TextSelection>
+                                <TextSelection>1342,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -723,9 +825,6 @@
                     <TextSettings>
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
-                    <CorkboardAndOutliner>
-                        <SelectedSubdocumentIDs>16</SelectedSubdocumentIDs>
-                    </CorkboardAndOutliner>
                     <Children>
                         <BinderItem ID="16" Type="Image" Created="2011-05-27 21:03:41 +0200" Modified="2011-05-27 21:05:05 +0200">
                             <Title>Ville dans les nuages</Title>
@@ -821,6 +920,16 @@
                     </MetaData>
                     <TextSettings>
                         <TextSelection>703,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="98" Type="Text" Created="2012-05-28 20:28:12 +0200" Modified="2012-05-28 20:46:55 +0200">
+                    <Title>Chronologie</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>786,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>
@@ -953,6 +1062,26 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem ID="95" Type="Folder" Created="2012-05-28 19:29:20 +0200" Modified="2012-05-28 19:29:20 +0200">
+                    <Title>New Folder</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="101" Type="Text" Created="2012-05-28 21:03:16 +0200" Modified="2012-05-28 21:03:16 +0200">
+                    <Title>Untitled</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
         <BinderItem ID="26" Type="Folder" Created="2011-05-29 00:54:48 +0200" Modified="2011-05-29 00:54:59 +0200">
@@ -1040,7 +1169,7 @@
         </Keyword>
     </Keywords>
     <LabelSettings>
-        <Title>Relecture</Title>
+        <Title>Label</Title>
         <DefaultLabelID>-1</DefaultLabelID>
         <Labels>
             <Label ID="-1">No Label</Label>
@@ -1049,19 +1178,22 @@
         </Labels>
     </LabelSettings>
     <StatusSettings>
-        <Title>Status</Title>
+        <Title>Relecture</Title>
         <DefaultStatusID>-1</DefaultStatusID>
         <StatusItems>
             <Status ID="-1">No Status</Status>
-            <Status ID="0">To Do</Status>
-            <Status ID="1">First Draft</Status>
-            <Status ID="2">Revised Draft</Status>
-            <Status ID="3">Final Draft</Status>
-            <Status ID="4">Done</Status>
+            <Status ID="0">☀➁➂➃</Status>
+            <Status ID="1">➊➁➂➃</Status>
+            <Status ID="2">➊✿➂➃</Status>
+            <Status ID="3">➊➋➂➃</Status>
+            <Status ID="4">➊➋✿➃</Status>
+            <Status ID="5">➊➋➌➃</Status>
+            <Status ID="6">➊➋➌✿</Status>
+            <Status ID="7">➊➋➌➍</Status>
         </StatusItems>
     </StatusSettings>
     <ProjectProperties>
-        <ProjectTitle></ProjectTitle>
+        <ProjectTitle>NaNoWriMo 2011</ProjectTitle>
         <AbbreviatedTitle></AbbreviatedTitle>
         <FullName></FullName>
         <LastName></LastName>
@@ -1070,7 +1202,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2011-11-30 20:21:43 +0100" IgnoreDeadline="No">50000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetDaily="No" DeterminedFromDeadline="Yes" WritingDays="1-7">481</SessionTarget>
-        <PreviousSession Words="-216" Characters="-1408" Date="2012-05-28 19:19:05 +0200"></PreviousSession>
+        <PreviousSession Words="-415" Characters="-2585" Date="2012-05-28 21:31:40 +0200"></PreviousSession>
     </ProjectTargets>
     <TemplateFolderID>26</TemplateFolderID>
     <Favorites>
