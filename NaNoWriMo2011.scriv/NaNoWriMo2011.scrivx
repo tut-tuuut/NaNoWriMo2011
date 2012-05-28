@@ -7,7 +7,7 @@
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
             <CorkboardAndOutliner>
-                <SelectedSubdocumentIDs>77</SelectedSubdocumentIDs>
+                <SelectedSubdocumentIDs>67</SelectedSubdocumentIDs>
                 <CorkboardSettings>
                     <FreeformMode>No</FreeformMode>
                     <FreeformCorkboardDocuments>
@@ -67,30 +67,30 @@
                         <TextSelection>1759,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="67" Type="Text" Created="2011-11-05 15:35:13 +0100" Modified="2012-05-20 22:59:46 +0200">
+                <BinderItem ID="67" Type="Text" Created="2011-11-05 15:35:13 +0100" Modified="2012-05-27 18:55:24 +0200">
                     <Title>Descente aux enquêtes</Title>
                     <MetaData>
                         <LabelID>0</LabelID>
                         <StatusID>1</StatusID>
                         <IncludeInCompile>Yes</IncludeInCompile>
-                        <NotesTextSelection>79,0</NotesTextSelection>
+                        <NotesTextSelection>87,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>21027,0</TextSelection>
+                        <TextSelection>14387,0</TextSelection>
                     </TextSettings>
                     <Keywords>
                         <KeywordID>1</KeywordID>
                         <KeywordID>5</KeywordID>
                     </Keywords>
                 </BinderItem>
-                <BinderItem ID="68" Type="Text" Created="2011-11-06 15:46:15 +0100" Modified="2012-05-18 19:40:15 +0200">
+                <BinderItem ID="68" Type="Text" Created="2011-11-06 15:46:15 +0100" Modified="2012-05-28 19:19:05 +0200">
                     <Title>Baggaley S.O.S.</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
-                        <NotesTextSelection>276,0</NotesTextSelection>
+                        <NotesTextSelection>126,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>26868,0</TextSelection>
+                        <TextSelection>26106,0</TextSelection>
                     </TextSettings>
                     <Keywords>
                         <KeywordID>4</KeywordID>
@@ -139,7 +139,7 @@
                         <NotesTextSelection>336,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>16989,0</TextSelection>
+                        <TextSelection>13107,0</TextSelection>
                     </TextSettings>
                     <Keywords>
                         <KeywordID>5</KeywordID>
@@ -248,9 +248,6 @@
             <TextSettings>
                 <TextSelection>0,0</TextSelection>
             </TextSettings>
-            <CorkboardAndOutliner>
-                <SelectedSubdocumentIDs>93</SelectedSubdocumentIDs>
-            </CorkboardAndOutliner>
             <Children>
                 <BinderItem ID="81" Type="Text" Created="2011-11-24 20:48:11 +0100" Modified="2011-11-30 20:07:14 +0100">
                     <Title>Baffes et pardon</Title>
@@ -300,6 +297,16 @@
                     </MetaData>
                     <TextSettings>
                         <TextSelection>2184,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="94" Type="Text" Created="2012-05-28 19:12:11 +0200" Modified="2012-05-28 19:12:26 +0200">
+                    <Title>La détresse se peignit sur le visage de la gamine</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>417,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>
@@ -1063,7 +1070,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2011-11-30 20:21:43 +0100" IgnoreDeadline="No">50000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetDaily="No" DeterminedFromDeadline="Yes" WritingDays="1-7">481</SessionTarget>
-        <PreviousSession Words="-769" Characters="-4861" Date="2012-05-20 23:13:25 +0200"></PreviousSession>
+        <PreviousSession Words="-216" Characters="-1408" Date="2012-05-28 19:19:05 +0200"></PreviousSession>
     </ProjectTargets>
     <TemplateFolderID>26</TemplateFolderID>
     <Favorites>
